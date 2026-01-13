@@ -1671,7 +1671,7 @@
   <offer id="2695320550" available="true">
     <article>2695320550</article>
     <url>https://jetpad.com.ua/ua/p2695320550-smartfon-google-pixel.html</url>
-    <price>18040</price><price_old>19315</price_old>
+    <price>18689</price><price_old>19315</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/EeLKzya2Rm858jdjJgySAMzA4nO0-j9aUbMup62wUS8=/6772437559_smartfon-google-pixel.jpg</picture>
@@ -1997,7 +1997,7 @@
     <param name="Подвійна основна фотокамера">Так</param>
     <param name="Стан" unit="">Refurbished, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-  <offer id="2703370230" available="true">
+  <offer id="2703370230" available="false">
     <article>2703370230</article>
     <url>https://jetpad.com.ua/ua/p2703370230-smartfon-google-pixel.html</url>
     <price>18519</price><price_old>19315</price_old>
@@ -2006,7 +2006,7 @@
     <picture>https://images.prom.ua/p0dqUS377hi4tzamI8_t3Mm3RrwVWHTejG1Be4phL7U=/6783817372_smartfon-google-pixel.jpg</picture>
     <picture>https://images.prom.ua/SZPDJ8TTW-Wo6--zC0_PGf1YLPyMYV6Ia393rBR-YFQ=/6783817383_smartfon-google-pixel.jpg</picture>
     <vendor>Google</vendor>
-    <name>Смартфон Google Pixel 8 8/128GB Rose Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Google Pixel 8 8/128GB Rose Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -3293,16 +3293,16 @@
     <param name="Вага" unit="г">181</param>
     <param name="Стан" unit="">Refurbished, в заводських плівках, повний комплект, гарантія 12 мсц</param>
   </offer>
-  <offer id="2688262299" available="false">
+  <offer id="2688262299" available="true">
     <article>2688262299</article>
     <url>https://jetpad.com.ua/ua/p2688262299-smartfon-xiaomi-redmi.html</url>
-    <price>8789</price><price_old>9315</price_old>
+    <price>8630</price><price_old>9315</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/DOBTz14hvyxDDMtke-OTUTouj2sCf_EoU2i0MvpcHdU=/6721058044_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/opYesJz7owzodbn7Iz5k44hNBgmdI8giAwvEb2CMXBk=/6560179799_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi K40 Gaming 8/256GB Yellow Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi K40 Gaming 8/256GB Yellow Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><div>
 <table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
@@ -5402,7 +5402,7 @@
     <offer id="2703377796" available="true">
     <article>2703377796</article>
     <url>https://jetpad.com.ua/ua/p2703377796-smartfon-google-pixel.html</url>
-    <price>18519</price><price_old>19315</price_old>
+    <price>18689</price><price_old>19315</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/njBJWCyndxYqQGzWmnJEujCvLPHYafFb_LUoXyTyUVA=/6783820623_smartfon-google-pixel.jpg</picture>
@@ -6275,7 +6275,7 @@
     <offer id="2616299234" available="true">
     <article>2616299234</article>
     <url>https://jetpad.com.ua/ua/p2616299234-smartfon-xiaomi-civi.html</url>
-    <price>10065</price><price_old>11315</price_old>
+    <price>9735</price><price_old>11315</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/WkyfTOtQmJlbWHHXROlmpaLcaGJhR9sTeGUx3ymExqo=/6657477559_smartfon-xiaomi-civi.jpg</picture>
@@ -6552,7 +6552,7 @@
   <offer id="2616304134" available="true">
     <article>2616304134</article>
     <url>https://jetpad.com.ua/ua/p2616304134-smartfon-xiaomi-civi.html</url>
-    <price>9845</price><price_old>10315</price_old>
+    <price>9515</price><price_old>10315</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/WkyfTOtQmJlbWHHXROlmpaLcaGJhR9sTeGUx3ymExqo=/6657477559_smartfon-xiaomi-civi.jpg</picture>
@@ -8703,7 +8703,7 @@
     <param name="Стереодинаміки">Так</param>
     <param name="Стан" unit="">Refurbished, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-    <offer id="2660952008" available="false">
+    <offer id="2660952008" available="true">
     <article>2660952008</article>
     <url>https://jetpad.com.ua/ua/p2660952008-smartfon-xiaomi-redmi.html</url>
     <price>9085</price><price_old>9315</price_old>
@@ -8712,7 +8712,7 @@
     <picture>https://images.prom.ua/DOBTz14hvyxDDMtke-OTUTouj2sCf_EoU2i0MvpcHdU=/6721058044_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/opYesJz7owzodbn7Iz5k44hNBgmdI8giAwvEb2CMXBk=/6560179799_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi K40 Gaming 12/256GB Yellow Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi K40 Gaming 12/256GB Yellow Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><div>
 <table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
@@ -9645,7 +9645,7 @@
     <param name="Стереодинаміки">Так</param>
     <param name="Стан" unit="">Refurbished, в заводських плівках,, повний комплект, гарантія 12 мсц</param>
   </offer>
-    <offer id="2727493695" available="false">
+    <offer id="2727493695" available="true">
     <article>2727493695</article>
     <url>https://jetpad.com.ua/ua/p2727493695-smartfon-xiaomi-redmi.html</url>
     <price>8129</price><price_old>8615</price_old>
@@ -9657,7 +9657,7 @@
     <picture>https://images.prom.ua/0m3K6KhyxYYz911eXShSBaENZW49fAgAaEZKGkNV_ME=/6221858533_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/zQRpxB2phT3MRnKMumj01PCTbvAr6qSspFiaePdCOjI=/6221859292_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 11 Pro 8/256GB Graphite Gray Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi Note 11 Pro 8/256GB Graphite Gray Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -11943,10 +11943,10 @@
     <param name="Вага" unit="г">192</param>
     <param name="Refurbished" unit="">Refurbіshed, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-    <offer id="1857139965" available="false">
+    <offer id="1857139965" available="true">
     <article>R12C6128MG</article>
     <url>https://jetpad.com.ua/ua/p1857139965-smartfon-xiaomi-redmi.html</url>
-    <price>4729</price><price_old>5315</price_old>
+    <price>4839</price><price_old>5315</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/PkdhLUDxU7UxK_5wTaHf6ETIWJa_ceXRbzCg_ImGVh4=/4427827948_smartfon-xiaomi-redmi.jpg</picture>
@@ -11955,7 +11955,7 @@
     <picture>https://images.prom.ua/vKhRWKcE2qpYxEqFhe1d6vZMBcDOQvF4p_cljeOrwWs=/4427826703_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/GP4io4ZU6ZCRvbiwB4ZbVxYN9f_cbw5mZ7_KtgLuOxI=/4427826743_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi 12C 6/128GB Mint Green Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi 12C 6/128GB Mint Green Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-theme-grey ck-table-constructor_type_lite">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -14715,7 +14715,7 @@
     <param name="Спалах фронтальної камери">Ні</param>
     <param name="Стан" unit="">Refurbished, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-    <offer id="2358851090" available="false">
+    <offer id="2358851090" available="true">
     <article>XRN11P6128B</article>
     <url>https://jetpad.com.ua/ua/p2358851090-smartfon-xiaomi-redmi.html</url>
     <price>7698</price><price_old>8315</price_old>
@@ -14729,7 +14729,7 @@
     <picture>https://images.prom.ua/5ejAHf3lB1OkwUHs5bqMuyKtmqI85wLPUj3JlB_yeeU=/6262132307_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/R5YVzSsQlKZ7QsKNwn32eyuKh-e-Bz5iXmjKwA69ZPY=/6262132528_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 11 Pro 6/128GB Star Blue Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi Note 11 Pro 6/128GB Star Blue Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -15094,7 +15094,7 @@
     <param name="Вес" unit="г">193</param>
     <param name="Стан" unit="">Refurbіshed, запечатаний, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-    <offer id="2343404810" available="false">
+    <offer id="2343404810" available="true">
     <article>2343404810</article>
     <url>https://jetpad.com.ua/ua/p2343404810-smartfon-xiaomi-redmi.html</url>
     <price>7865</price><price_old>8315</price_old>
@@ -15108,7 +15108,7 @@
     <picture>https://images.prom.ua/5ejAHf3lB1OkwUHs5bqMuyKtmqI85wLPUj3JlB_yeeU=/6262132307_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/R5YVzSsQlKZ7QsKNwn32eyuKh-e-Bz5iXmjKwA69ZPY=/6262132528_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 11 Pro 8/128GB Star Blue Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi Note 11 Pro 8/128GB Star Blue Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -15473,7 +15473,7 @@
     <param name="Вес" unit="г">193</param>
     <param name="Стан" unit="">Refurbіshed, запечатаний, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-    <offer id="2686270538" available="false">
+    <offer id="2686270538" available="true">
     <article>2686270538</article>
     <url>https://jetpad.com.ua/ua/p2686270538-smartfon-xiaomi-redmi.html</url>
     <price>8129</price><price_old>8315</price_old>
@@ -15487,7 +15487,7 @@
     <picture>https://images.prom.ua/5ejAHf3lB1OkwUHs5bqMuyKtmqI85wLPUj3JlB_yeeU=/6262132307_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/R5YVzSsQlKZ7QsKNwn32eyuKh-e-Bz5iXmjKwA69ZPY=/6262132528_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 11 Pro 8/256GB Star Blue Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi Note 11 Pro 8/256GB Star Blue Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -18467,7 +18467,7 @@
     <param name="Стереодинамики">Да</param>
     <param name="Стан" unit="">Refurbished, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-    <offer id="2611876562" available="true">
+    <offer id="2611876562" available="false">
     <article>2611876562</article>
     <url>https://jetpad.com.ua/ua/p2611876562-smartfon-xiaomi-11t.html</url>
     <price>10765</price><price_old>11315</price_old>
@@ -18481,7 +18481,7 @@
     <picture>https://images.prom.ua/N8nHkLfpLcQ746BEc-Ps9w7_3ywAPKtNapSaQJUh51Y=/6651462761_smartfon-xiaomi-11t.jpg</picture>
     <picture>https://images.prom.ua/gYiyn_8O6q3nssVrGUlX2LBza2qbx9d8-mOpRQ4ecz4=/6651463823_smartfon-xiaomi-11t.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi 11T 8/256GB Meteorite Gray Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi 11T 8/256GB Meteorite Gray Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -19198,7 +19198,7 @@
     <offer id="2611900054" available="false">
     <article>2611900054</article>
     <url>https://jetpad.com.ua/ua/p2611900054-smartfon-xiaomi-8128gb.html</url>
-    <price>11879</price><price_old>12315</price_old>
+    <price>11489</price><price_old>12315</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/dYRzIOTfRzkCflRPhvZCt4HRcMukAwzMGmFDEqBCcc8=/6455700251_smartfon-xiaomi-12.jpg</picture>
@@ -19209,7 +19209,7 @@
     <picture>https://images.prom.ua/SniUCmsX6zBlboh7r3Eyv8oYa_PuzzeCTw3ESTdYyZo=/6455700553_smartfon-xiaomi-12.jpg</picture>
     <picture>https://images.prom.ua/eHwgwSf_cDP-YYjXbRZoMbWseVkNEovlWOtxBXkzmPI=/6455700678_smartfon-xiaomi-12.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi 12 8/128GB Blue Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi 12 8/128GB Blue Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -21191,7 +21191,7 @@
     <param name="Видеопроцессор" unit="">GPU Mail-T880</param>
     <param name="Процессор" unit="">MediaTek MT6797 (Helio X20)</param>
   </offer>
-    <offer id="707800560" available="true">
+    <offer id="707800560" available="false">
     <article>XRN4XG64</article>
     <url>https://jetpad.com.ua/ua/p707800560-smartfon-xiaomi-redmi.html</url>
     <price>3355</price><price_old>4315</price_old>
@@ -21201,7 +21201,7 @@
     <picture>https://images.prom.ua/Jqx7cHvM-D_Aj0DHcaPR2dXkaqSO2q3r1Bbnzd_JrbQ=/1172156585_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/z7lWIbESdlFZFovUP3fxC-cDpWVI_SdMEX0YK-BvR_w=/1835125431_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 4X 4/64GB Gray Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi Note 4X 4/64GB Gray Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><div>
 <table border="1" class="ck-table-constructor ck-theme-grey ck-table-constructor_type_lite">
 	<tbody>
@@ -21596,7 +21596,7 @@
     <param name="Процессор" unit="">Qualcomm Snapdragon 625 MSM8953</param>
     <param name="Состояние" unit="">Refurbished</param>
   </offer>
-    <offer id="796852053" available="true">
+    <offer id="796852053" available="false">
     <article>XRN4XGO64</article>
     <url>https://jetpad.com.ua/ua/p796852053-smartfon-xiaomi-redmi.html</url>
     <price>3355</price><price_old>4315</price_old>
@@ -21606,7 +21606,7 @@
     <picture>https://images.prom.ua/WAz4SlIK6H_e2KOPbj4xn5mgzdZXsGLGCNrEEIQ01Xc=/1369469682_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/rgYtWS_KvxbtA4rMQkqYBnNpJqynIqzypmOo2xxPTTE=/1145108444_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 4x 4/64 GB Gold Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi Note 4x 4/64 GB Gold Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><div>
 <table border="1" class="ck-table-constructor ck-theme-grey ck-table-constructor_type_lite">
 	<tbody>
@@ -22388,17 +22388,17 @@
     <param name="Вес" unit="г">193</param>
     <param name="Стан" unit="">Refurbished, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-    <offer id="2611902792" available="false">
+    <offer id="2611902792" available="true">
     <article>2611902792</article>
     <url>https://jetpad.com.ua/ua/p2611902792-smartfon-xiaomi-8128gb.html</url>
-    <price>11879</price><price_old>12315</price_old>
+    <price>11489</price><price_old>12315</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/c8r5i0jv4SsJhls9xamMsGKQs8R5mblS-qv21lGS8TI=/6467896360_smartfon-xiaomi-12.jpg</picture>
     <picture>https://images.prom.ua/Db_dxTrw0OGk2recxGARUYgwXYAvjFWP1pPseQpXDoM=/6467896626_smartfon-xiaomi-12.jpg</picture>
     <picture>https://images.prom.ua/nShARyaz7H7RjHV1PtPvzhvm036TwLLyK16w4sK5W2E=/6467896915_smartfon-xiaomi-12.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi 12 8/128GB Green Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi 12 8/128GB Green Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -23127,7 +23127,7 @@
     <offer id="2610447579" available="true">
     <article>2610447579</article>
     <url>https://jetpad.com.ua/ua/p2610447579-smartfon-xiaomi-redmi.html</url>
-    <price>5305</price><price_old>6315</price_old>
+    <price>5139</price><price_old>6315</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/duWkybUTxjMQ35Q9qcZrcjZP6U36D1Bnd9gB9wfyvJE=/6649678815_smartfon-xiaomi-redmi.jpg</picture>
@@ -23481,7 +23481,7 @@
     <offer id="2580783689" available="true">
     <article>XRN105G6128GG</article>
     <url>https://jetpad.com.ua/ua/p2580783689-smartfon-xiaomi-redmi.html</url>
-    <price>5445</price><price_old>6315</price_old>
+    <price>5279</price><price_old>6315</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/UQ0vdWxpXqiGAe30nc4zzlEjs3Pjlcf5XOZqXKdzvh8=/4759928208_smartfon-xiaomi-redmi.jpg</picture>
@@ -24186,7 +24186,7 @@
     <offer id="2580788743" available="true">
     <article>XRN105G6128B</article>
     <url>https://jetpad.com.ua/ua/p2580788743-smartfon-xiaomi-redmi.html</url>
-    <price>5445</price><price_old>6315</price_old>
+    <price>5279</price><price_old>6315</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/g00Cvm4LwPH8-MrpjXg5hyDOa2WP7vCmnrS7M_4OmPM=/6417256638_smartfon-xiaomi-redmi.jpg</picture>
@@ -24526,7 +24526,7 @@
     <offer id="2543354762" available="true">
     <article>XRN105G8128GG</article>
     <url>https://jetpad.com.ua/ua/p2543354762-smartfon-xiaomi-redmi.html</url>
-    <price>5498</price><price_old>6315</price_old>
+    <price>5335/price><price_old>6315</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/UQ0vdWxpXqiGAe30nc4zzlEjs3Pjlcf5XOZqXKdzvh8=/4759928208_smartfon-xiaomi-redmi.jpg</picture>
@@ -24868,7 +24868,7 @@
     <offer id="2564637074" available="true">
     <article>XRN105G8128G</article>
     <url>https://jetpad.com.ua/ua/p2564637074-smartfon-xiaomi-redmi.html</url>
-    <price>5498</price><price_old>6315</price_old>
+    <price>5335</price><price_old>6315</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/azWNjtm7-TgyCtAIMhP-vvqt9fv5yNwPUwwmEQI10Rs=/4693773377_smartfon-xiaomi-redmi.jpg</picture>
@@ -25809,16 +25809,16 @@
     <param name="Количество мегапикселей фронтальной  камеры " unit="Мп">16</param>
     <param name="Стан" unit="">Refurbished, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-    <offer id="2571476387" available="false">
+    <offer id="2571476387" available="true">
     <article>2571476387</article>
     <url>https://jetpad.com.ua/ua/p2571476387-smartfon-xiaomi-redmi.html</url>
-    <price>8789</price><price_old>9315</price_old>
+    <price>8630</price><price_old>9315</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/NZSY3gxu9js1hMOduc6ZZh8dwixpHx3ftJBYB7I2ub8=/6560179783_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/opYesJz7owzodbn7Iz5k44hNBgmdI8giAwvEb2CMXBk=/6560179799_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi K40 Gaming 8/256GB Black Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi K40 Gaming 8/256GB Black Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><div>
 <table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
@@ -26099,7 +26099,7 @@
     <param name="Количество мегапикселей фронтальной  камеры " unit="Мп">16</param>
     <param name="Стан" unit="">Refurbished, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-    <offer id="2546691878" available="false">
+    <offer id="2546691878" available="true">
     <article>2546691878</article>
     <url>https://jetpad.com.ua/ua/p2546691878-smartfon-xiaomi-redmi.html</url>
     <price>9085</price><price_old>9315</price_old>
@@ -26108,7 +26108,7 @@
     <picture>https://images.prom.ua/NZSY3gxu9js1hMOduc6ZZh8dwixpHx3ftJBYB7I2ub8=/6560179783_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/opYesJz7owzodbn7Iz5k44hNBgmdI8giAwvEb2CMXBk=/6560179799_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi K40 Gaming 12/256GB Black Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi K40 Gaming 12/256GB Black Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><div>
 <table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
@@ -26391,7 +26391,7 @@
     <offer id="1894838325" available="false">
     <article>XR9A64GPG</article>
     <url>https://jetpad.com.ua/ua/p1894838325-smartfon-xiaomi-redmi.html</url>
-    <price>3275</price><price_old>3315</price_old>
+    <price>3375</price><price_old>3315</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/zlgtw2SUG1NOpkT2x3xDLvGfdq-AcVIgXbdSdXcygBA=/4692184669_smartfon-xiaomi-redmi.jpg</picture>
@@ -26736,7 +26736,7 @@
     <offer id="2543389236" available="true">
     <article>XRN105G128B</article>
     <url>https://jetpad.com.ua/ua/p2543389236-smartfon-xiaomi-redmi.html</url>
-    <price>5498</price><price_old>6315</price_old>
+    <price>5335</price><price_old>6315</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/g00Cvm4LwPH8-MrpjXg5hyDOa2WP7vCmnrS7M_4OmPM=/6417256638_smartfon-xiaomi-redmi.jpg</picture>
@@ -27073,7 +27073,7 @@
     <param name="Фотокамера">Да</param>
     <param name="Количество мегапикселей камеры" unit="Мп">52</param>
   </offer>
-    <offer id="2557600537" available="true">
+    <offer id="2557600537" available="false">
     <article>XRN105G8256GG</article>
     <url>https://jetpad.com.ua/ua/p2557600537-smartfon-xiaomi-redmi.html</url>
     <price>5719</price><price_old>6315</price_old>
@@ -27087,7 +27087,7 @@
     <picture>https://images.prom.ua/qBlQ8FsB_4V3V8DWSB5A2arJ3mt5LGj5OPdmr7vgtzk=/4759929241_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/NUCg5NWdXSB2oiWj_aGWMJs9pW-KaM8BLmV9eZjAxpo=/4759929309_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 10 5G 8/256GB Graphite Gray Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi Note 10 5G 8/256GB Graphite Gray Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -28837,7 +28837,7 @@
     <param name="Вес" unit="г">181</param>
     <param name="Стан" unit="">Refurbіshed, запечатаний, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-    <offer id="2321926341" available="false">
+    <offer id="2321926341" available="true">
     <article>XRN11P6128G</article>
     <url>https://jetpad.com.ua/ua/p2321926341-smartfon-xiaomi-redmi.html</url>
     <price>7698</price><price_old>8315</price_old>
@@ -28849,7 +28849,7 @@
     <picture>https://images.prom.ua/2cglWWKJKUmMolUerHYhvosSO-gVjQq0FOy-LbbgZcQ=/6221974658_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/71Wv6eOaQsXF7e_QEVrV2_LFnRis0Lc9WDggK1GxzNo=/6221974659_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 11 Pro 6/128GB Graphite Gray Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi Note 11 Pro 6/128GB Graphite Gray Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -29214,7 +29214,7 @@
     <param name="Вес" unit="г">193</param>
     <param name="Стан" unit="">Refurbіshed, запечатаний, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-    <offer id="2321921493" available="false">
+    <offer id="2321921493" available="true">
     <article>XRN11P128GG</article>
     <url>https://jetpad.com.ua/ua/p2321921493-smartfon-xiaomi-redmi.html</url>
     <price>7865</price><price_old>8315</price_old>
@@ -29226,7 +29226,7 @@
     <picture>https://images.prom.ua/D4ZiEnCEUHfz7mekxAFkd1MK2FnimkLxxj2EGwdkySs=/6221946164_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/zEuZ342GdTlc6dRV0dNlffYkpg3DGxLs4xtW46yCy28=/6221946165_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 11 Pro 8/128GB Graphite Gray Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi Note 11 Pro 8/128GB Graphite Gray Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -30121,7 +30121,7 @@
     <param name="Вес" unit="г">193</param>
     <param name="Refurbished" unit="">Refurbіshed, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-    <offer id="2571544570" available="false">
+    <offer id="2571544570" available="true">
     <article>2571544570</article>
     <url>https://jetpad.com.ua/ua/p2571544570-smartfon-xiaomi-redmi.html</url>
     <price>9679</price><price_old>10315</price_old>
@@ -30132,7 +30132,7 @@
     <picture>https://images.prom.ua/B5-p878uQH5AV_lO_J-DBlknC_T2EdX2_45yEGxjI08=/6401781612_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/tjR3zpZ7ozvAWUemELw36dAjxXi0Pvr3MC4Y2UAshXE=/6401781811_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 11 Pro+ 8/256GB Graphite Gray Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi Note 11 Pro+ 8/256GB Graphite Gray Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -30651,10 +30651,10 @@
     <param name="Вес" unit="г">193</param>
     <param name="Refurbished" unit="">Refurbіshed, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-    <offer id="2071609417" available="false">
+    <offer id="2071609417" available="true">
     <article>XRN12P5G128P</article>
     <url>https://jetpad.com.ua/ua/p2071609417-smartfon-xiaomi-redmi.html</url>
-    <price>8249</price><price_old>9315</price_old>
+    <price>7919</price><price_old>9315</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/0SzNYQCOG-Vu_s6hrhSZIr_CssPxyqC4vuLwlqUerck=/5297796515_smartfon-xiaomi-redmi.jpg</picture>
@@ -30662,7 +30662,7 @@
     <picture>https://images.prom.ua/y2vs7e41cVe5M0z5DhP7qdwOOV8BT50eDlfgY1BrjPQ=/5297795981_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/5hceS8_zqDo8YVSGeyXxGt7pWBYFctcJwAl8OAWNNSY=/5297796701_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 12 Pro 5G 6/128GB Purple Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi Note 12 Pro 5G 6/128GB Purple Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -33581,10 +33581,10 @@
     <param name="Вспышка фронтальной камеры">Нет</param>
     <param name="Стан" unit="">Refurbished, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-    <offer id="2489602503" available="false">
+    <offer id="2489602503" available="true">
     <article>XRN13P5G256B</article>
     <url>https://jetpad.com.ua/ua/p2489602503-smartfon-xiaomi-redmi.html</url>
-    <price>11445</price><price_old>12315</price_old>
+    <price>11275</price><price_old>12315</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/5pKRARNn7bNcOzZbsGIEjymFniOJsM5CoZO5wMp71U8=/6344905338_smartfon-xiaomi-redmi.jpg</picture>
@@ -33595,7 +33595,7 @@
     <picture>https://images.prom.ua/ROpIVGSpWqfjz7RH53g5aiNG2YRPk9XF7Nxh8LL4doA=/6344905529_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/MCi-ZEy3H0_nHCna6FzUTZI9ezo6SZciFXKzgRHlb8o=/6344905584_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 13 Pro 5G 12/256GB Midnight Black Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi Note 13 Pro 5G 12/256GB Midnight Black Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -35551,7 +35551,7 @@
     <param name="Поиск по телефонной книге">Да</param>
     <param name="Состояние" unit="">Refurbіshed, запечатаний, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-    <offer id="2448050306" available="true">
+    <offer id="2448050306" available="false">
     <article>XRN105G256B</article>
     <url>https://jetpad.com.ua/ua/p2448050306-smartfon-xiaomi-redmi.html</url>
     <price>5719</price><price_old>6315</price_old>
@@ -35563,7 +35563,7 @@
     <picture>https://images.prom.ua/PFp_708a6nHsO8TJT_SBHLaZmteRcDb7oDT5BDqEa-0=/6417257066_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/xjhKeF8qzQZEbnO9XHzu_UL5LYmzBZF-HcXXs0li4a8=/6417257155_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 10 5G 8/256GB Nighttime Blue Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi Note 10 5G 8/256GB Nighttime Blue Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -36226,7 +36226,7 @@
     <offer id="2470789691" available="true">
     <article>XRN135G128O</article>
     <url>https://jetpad.com.ua/ua/p2470789691-smartfon-xiaomi-redmi.html</url>
-    <price>7039</price><price_old>8315</price_old>
+    <price>7029</price><price_old>8315</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/TDpeQYZRoXoFpfxuLGCnjXUzkZ_xLJayFf_oTyi4bQI=/6435089627_smartfon-xiaomi-redmi.jpg</picture>
@@ -36586,7 +36586,7 @@
     <offer id="2482534293" available="true">
     <article>XRN135G128W</article>
     <url>https://jetpad.com.ua/ua/p2482534293-smartfon-xiaomi-redmi.html</url>
-    <price>7039</price><price_old>7315</price_old>
+    <price>7029</price><price_old>7315</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/37csbfsP9BEtqVfj-NV1BsEZ9X9T385QwVFOAy0YpMc=/6467857201_smartfon-xiaomi-redmi.jpg</picture>
@@ -36945,10 +36945,10 @@
     <param name="Вспышка фронтальной камеры">Нет</param>
     <param name="Стан" unit="">Refurbished, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-    <offer id="2542269062" available="false">
+    <offer id="2542269062" available="true">
     <article>XRN13P5G256AW</article>
     <url>https://jetpad.com.ua/ua/p2542269062-smartfon-xiaomi-redmi.html</url>
-    <price>11269</price><price_old>12315</price_old>
+    <price>11275</price><price_old>12315</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/aOK3PaC9JrVQslArkY9Wu0M99q-kLtBoYQYnSMi0PDg=/6412567253_smartfon-xiaomi-redmi.jpg</picture>
@@ -36957,7 +36957,7 @@
     <picture>https://images.prom.ua/Z7E8n-_jiCvdVKlpB9mB--CDW6213p99gTxAE_PijGM=/6412567464_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/mmYCUbMVt816-HyAg6g9_XrxE8UfBUIkqmRHiCVfSoU=/6412567690_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 13 Pro 5G 12/256GB White Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi Note 13 Pro 5G 12/256GB White Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -37320,10 +37320,10 @@
     <param name="Вспышка фронтальной камеры">Нет</param>
     <param name="Стан" unit="">Refurbished, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-    <offer id="2542285271" available="false">
+    <offer id="2542285271" available="true">
     <article>XRN13P5G256OT</article>
     <url>https://jetpad.com.ua/ua/p2542285271-smartfon-xiaomi-redmi.html</url>
-    <price>11319</price><price_old>12315</price_old>
+    <price>11275</price><price_old>12315</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/TDpeQYZRoXoFpfxuLGCnjXUzkZ_xLJayFf_oTyi4bQI=/6435089627_smartfon-xiaomi-redmi.jpg</picture>
@@ -37334,7 +37334,7 @@
     <picture>https://images.prom.ua/R64o8Vp2REEJDYgipwMZeG-Wbow71MKSmmrTF4QxlK0=/6435090445_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/DLn2pfpmKFvCyLXjRvEros89akuGDSOSinh6SoNtUBg=/6435090301_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 13 Pro 5G 12/256GB Ocean Teal Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi Note 13 Pro 5G 12/256GB Ocean Teal Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -38415,10 +38415,10 @@
     <param name="Вспышка фронтальной камеры">Нет</param>
     <param name="Стан" unit="">Refurbished, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-    <offer id="2467764572" available="false">
+    <offer id="2467764572" available="true">
     <article>X12256P</article>
     <url>https://jetpad.com.ua/ua/p2467764572-smartfon-xiaomi-8256gb.html</url>
-    <price>11759</price><price_old>13315</price_old>
+    <price>11659</price><price_old>13315</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/-t97JZ6zCEp8Xi5JMG8xheijoCq-D6dF0RQlLmmH-Y8=/6446678625_smartfon-xiaomi-12.jpg</picture>
@@ -38429,7 +38429,7 @@
     <picture>https://images.prom.ua/9PTbst6yc_aHe5F7OeCueFOYIxW_H5pXzg8ujFyeU5A=/6446678761_smartfon-xiaomi-12.jpg</picture>
     <picture>https://images.prom.ua/2MdLBylM4lyoTcW6O9JP5pOQNUAXyEbXii8cxATzvgw=/6446678763_smartfon-xiaomi-12.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi 12 8/256GB Purple Global Rom</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi 12 8/256GB Purple Global Rom</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -39559,7 +39559,7 @@
     <param name="Количество мегапикселей камеры на лицевой панели" unit="Мп">40</param>
     <param name="Стереодинамики">Да</param>
   </offer>
-    <offer id="2396573157" available="true">
+    <offer id="2396573157" available="false">
     <article>SNYXAZEB</article>
     <url>https://jetpad.com.ua/ua/p2396573157-smartfon-sony-xperia.html</url>
     <price>3959</price><price_old>4315</price_old>
@@ -39570,7 +39570,7 @@
     <picture>https://images.prom.ua/8Ti3pOLGe5d_0D1_HHHqkWIqNjo5eNhxVboOolhvLgE=/6341676514_smartfon-sony-xperia.jpg</picture>
     <picture>https://images.prom.ua/fpinkl2XLhppIeYyaCQ4-MbBFbdN-kY2UBTnOFGloxw=/6341676551_smartfon-sony-xperia.jpg</picture>
     <vendor>Sony</vendor>
-    <name>Смартфон Sony Xperia Z3+ E6553 Black Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Sony Xperia Z3+ E6553 Black Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><p><strong>Гарантія 1 міс.</strong></p>
 
 <p> </p>
@@ -41272,10 +41272,10 @@
     <param name="Вес" unit="г">198</param>
     <param name="Стан" unit="">Refurbіshed, запечатаний, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-    <offer id="2402041670" available="false">
+    <offer id="2402041670" available="true">
     <article>XRN12P5G8128P</article>
     <url>https://jetpad.com.ua/ua/p2402041670-smartfon-xiaomi-redmi.html</url>
-    <price>8305</price><price_old>10315</price_old>
+    <price>8029</price><price_old>10315</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/0SzNYQCOG-Vu_s6hrhSZIr_CssPxyqC4vuLwlqUerck=/5297796515_smartfon-xiaomi-redmi.jpg</picture>
@@ -41283,7 +41283,7 @@
     <picture>https://images.prom.ua/y2vs7e41cVe5M0z5DhP7qdwOOV8BT50eDlfgY1BrjPQ=/5297795981_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/5hceS8_zqDo8YVSGeyXxGt7pWBYFctcJwAl8OAWNNSY=/5297796701_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 12 Pro 5G 8/128GB Purple Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi Note 12 Pro 5G 8/128GB Purple Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -42253,10 +42253,10 @@
     <param name="Гарантийный срок" unit="мес">12</param>
     <param name="Состояние" unit="">Refurbished</param>
   </offer>
-    <offer id="2398649924" available="false">
+    <offer id="2398649924" available="true">
     <article>XRN13P5G256B</article>
     <url>https://jetpad.com.ua/ua/p2398649924-smartfon-xiaomi-redmi.html</url>
-    <price>11009</price><price_old>12315</price_old>
+    <price>10939</price><price_old>12315</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/5pKRARNn7bNcOzZbsGIEjymFniOJsM5CoZO5wMp71U8=/6344905338_smartfon-xiaomi-redmi.jpg</picture>
@@ -42267,7 +42267,7 @@
     <picture>https://images.prom.ua/ROpIVGSpWqfjz7RH53g5aiNG2YRPk9XF7Nxh8LL4doA=/6344905529_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/MCi-ZEy3H0_nHCna6FzUTZI9ezo6SZciFXKzgRHlb8o=/6344905584_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 13 Pro 5G 8/256GB Midnight Black Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi Note 13 Pro 5G 8/256GB Midnight Black Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -42624,10 +42624,10 @@
     <param name="Вспышка фронтальной камеры">Нет</param>
     <param name="Стан" unit="">Refurbished, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-    <offer id="2459039840" available="false">
+    <offer id="2459039840" available="true">
     <article>XRN13P5G256O</article>
     <url>https://jetpad.com.ua/ua/p2459039840-smartfon-xiaomi-redmi.html</url>
-    <price>10985</price><price_old>12315</price_old>
+    <price>10939</price><price_old>12315</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/TDpeQYZRoXoFpfxuLGCnjXUzkZ_xLJayFf_oTyi4bQI=/6435089627_smartfon-xiaomi-redmi.jpg</picture>
@@ -42638,7 +42638,7 @@
     <picture>https://images.prom.ua/R64o8Vp2REEJDYgipwMZeG-Wbow71MKSmmrTF4QxlK0=/6435090445_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/DLn2pfpmKFvCyLXjRvEros89akuGDSOSinh6SoNtUBg=/6435090301_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 13 Pro 5G 8/256GB Ocean Teal Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi Note 13 Pro 5G 8/256GB Ocean Teal Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -43361,10 +43361,10 @@
     <param name="Стереодинамики">Да</param>
     <param name="Вспышка фронтальной камеры">Нет</param>
   </offer>
-    <offer id="2367824220" available="false">
+    <offer id="2367824220" available="true">
     <article>XRN12P5G128W</article>
     <url>https://jetpad.com.ua/ua/p2367824220-smartfon-xiaomi-redmi.html</url>
-    <price>8305</price><price_old>9315</price_old>
+    <price>8029</price><price_old>9315</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/QLvwsysmjOhg9Yc3ctt_CSPDSlKWrnClELQ08r_H5pg=/4648930854_smartfon-xiaomi-redmi.jpg</picture>
@@ -43375,7 +43375,7 @@
     <picture>https://images.prom.ua/CSbE8Y2f81UrTroe-C-oTUIT1Zguw5E_qJXf3I1W7I4=/4648932048_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/6vLnE9a3Nk6P9lUsRvBMluE402XAa5GBeFvvDX9jIg8=/4648932383_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 12 Pro 5G 8/128GB White Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi Note 12 Pro 5G 8/128GB White Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -44087,7 +44087,7 @@
     <param name="Вспышка фронтальной камеры">Нет</param>
     <param name="Стан" unit="">Refurbished, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-    <offer id="2044197677" available="false">
+    <offer id="2044197677" available="true">
     <article>XRN12P5G256B</article>
     <url>https://jetpad.com.ua/ua/p2044197677-smartfon-xiaomi-redmi.html</url>
     <price>8579</price><price_old>9315</price_old>
@@ -44101,7 +44101,7 @@
     <picture>https://images.prom.ua/PbK1i0gk71BP9ZmZkplSL6glYQQtMGfoURvAK7smqME=/5196532206_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/QlB9Yez6rEW6VmpRZjudFQKJFrOhu7Q6QiPdBdl5qxM=/5196532207_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 12 Pro 5G 8/256GB Black Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi Note 12 Pro 5G 8/256GB Black Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -44450,10 +44450,10 @@
     <param name="Вспышка фронтальной камеры">Нет</param>
     <param name="Стан" unit="">Refurbished, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-    <offer id="2044202349-1" available="false">
+    <offer id="2044202349-1" available="true">
     <article>XRN12P5G256W</article>
     <url>https://jetpad.com.ua/ua/p2044202349-smartfon-xiaomi-redmi.html</url>
-    <price>9910</price><price_old>11315</price_old>
+    <price>8579</price><price_old>11315</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/1HaG3gNmTj1xEe2XJvDX5N0CJISgQyIU6oAfGX7mQKM=/5196546362_smartfon-xiaomi-redmi.jpg</picture>
@@ -44464,7 +44464,7 @@
     <picture>https://images.prom.ua/wHMh88e3J-VzWwTMWaFHtXHfNwM8nMjDvTO3wsWH49s=/5196546367_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/rfRTE95ab6JBC7Ey0fCeX1oIy8stTkBHoHgGdlIeGDk=/5196546368_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 12 Pro 5G 8/256GB White Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi Note 12 Pro 5G 8/256GB White Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -44818,7 +44818,7 @@
     <param name="Стереодинамики">Да</param>
     <param name="Вспышка фронтальной камеры">Нет</param>
   </offer>
-    <offer id="2044203460-1" available="false">
+    <offer id="2044203460-1" available="true">
     <article>XRN12P5G256Bl</article>
     <url>https://jetpad.com.ua/ua/p2044203460-smartfon-xiaomi-redmi.html</url>
     <price>8579</price><price_old>11315</price_old>
@@ -44832,7 +44832,7 @@
     <picture>https://images.prom.ua/VZW8zpYtSL_egd_JkO9S7plfJTmYpTjEPHW8t8v_t5Q=/5196551650_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/7Ep_qJQdpKQZxq6WvM7JgshIUerl7rJWwWHJFln1754=/5196551651_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 12 Pro 5G 8/256GB Blue Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi Note 12 Pro 5G 8/256GB Blue Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -46500,10 +46500,10 @@
     <param name="Толщина" unit="мм">8.77</param>
     <param name="Вес" unit="г">192</param>
   </offer>
-    <offer id="2445021259" available="false">
+    <offer id="2445021259" available="true">
     <article>XRN13P5G256W</article>
     <url>https://jetpad.com.ua/ua/p2445021259-smartfon-xiaomi-redmi.html</url>
-    <price>11109</price><price_old>12315</price_old>
+    <price>10939</price><price_old>12315</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/aOK3PaC9JrVQslArkY9Wu0M99q-kLtBoYQYnSMi0PDg=/6412567253_smartfon-xiaomi-redmi.jpg</picture>
@@ -46512,7 +46512,7 @@
     <picture>https://images.prom.ua/Z7E8n-_jiCvdVKlpB9mB--CDW6213p99gTxAE_PijGM=/6412567464_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/mmYCUbMVt816-HyAg6g9_XrxE8UfBUIkqmRHiCVfSoU=/6412567690_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 13 Pro 5G 8/256GB White Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi Note 13 Pro 5G 8/256GB White Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -47165,7 +47165,7 @@
     <param name="Вес" unit="г">194</param>
     <param name="Стан" unit="">Refurbіshed, запечатаний, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-    <offer id="2356143722" available="true">
+    <offer id="2356143722" available="false">
     <article>SGA52B</article>
     <url>https://jetpad.com.ua/ua/p2356143722-smartfon-samsung-galaxy.html</url>
     <price>10198</price><price_old>11315</price_old>
@@ -47177,7 +47177,7 @@
     <picture>https://images.prom.ua/RiW1p2WGnr_rV30NWsP5o_jHue3s79vku4EFo6r_aj0=/6278006408_smartfon-samsung-galaxy.jpg</picture>
     <picture>https://images.prom.ua/8JWeuj3P2TH5PE8hsSPDhljLehVFrw9qoR6AZwD23xU=/6278006446_smartfon-samsung-galaxy.jpg</picture>
     <vendor>Samsung</vendor>
-    <name>Смартфон Samsung Galaxy A52 4/128GB Black Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Samsung Galaxy A52 4/128GB Black Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -47525,10 +47525,10 @@
     <param name="Крепление аккумулятора">Несъемный</param>
     <param name="Refurbished" unit="">не запечатаний, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-    <offer id="2391205167" available="false">
+    <offer id="2391205167" available="true">
     <article>X12128B</article>
     <url>https://jetpad.com.ua/ua/p2391205167-smartfon-xiaomi-8128gb.html</url>
-    <price>11539</price><price_old>12539</price_old>
+    <price>11489</price><price_old>12539</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/JLkdxAeZ6ybYr-T4FYvO8YDMRgjjA9YlMCrFv84Ty2Y=/6330089348_smartfon-xiaomi-12.jpg</picture>
@@ -47539,7 +47539,7 @@
     <picture>https://images.prom.ua/KppUqVL0jY9_L0n5kGFKsfr9XikKDsoFE3bO4B8RvT4=/6330089416_smartfon-xiaomi-12.jpg</picture>
     <picture>https://images.prom.ua/zAAqyxH4-j2n5oGtUOQLbCwIp76ajDKt2TBNbWFNI_s=/6330089457_smartfon-xiaomi-12.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi 12 8/128GB Gray Black Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi 12 8/128GB Gray Black Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -47919,10 +47919,10 @@
     <param name="Вес" unit="г">193</param>
     <param name="Стан" unit="">Refurbished, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-    <offer id="2389962876" available="false">
+    <offer id="2389962876" available="true">
     <article>X12256B</article>
     <url>https://jetpad.com.ua/ua/p2389962876-smartfon-xiaomi-8256gb.html</url>
-    <price>11759</price><price_old>13315</price_old>
+    <price>11659</price><price_old>13315</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/JLkdxAeZ6ybYr-T4FYvO8YDMRgjjA9YlMCrFv84Ty2Y=/6330089348_smartfon-xiaomi-12.jpg</picture>
@@ -47933,7 +47933,7 @@
     <picture>https://images.prom.ua/KppUqVL0jY9_L0n5kGFKsfr9XikKDsoFE3bO4B8RvT4=/6330089416_smartfon-xiaomi-12.jpg</picture>
     <picture>https://images.prom.ua/zAAqyxH4-j2n5oGtUOQLbCwIp76ajDKt2TBNbWFNI_s=/6330089457_smartfon-xiaomi-12.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi 12 8/256GB Gray Black Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi 12 8/256GB Gray Black Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -49398,10 +49398,10 @@
     <param name="Вес" unit="г">192</param>
     <param name="Refurbished" unit="">в заводських плівках, гарантія 12 мсц</param>
   </offer>
-    <offer id="2475175264" available="false">
+    <offer id="2475175264" available="true">
     <article>XRN12P5G8128PU</article>
     <url>https://jetpad.com.ua/ua/p2475175264-smartfon-xiaomi-redmi.html</url>
-    <price>8305</price><price_old>9315</price_old>
+    <price>8029</price><price_old>9315</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/0SzNYQCOG-Vu_s6hrhSZIr_CssPxyqC4vuLwlqUerck=/5297796515_smartfon-xiaomi-redmi.jpg</picture>
@@ -49409,7 +49409,7 @@
     <picture>https://images.prom.ua/y2vs7e41cVe5M0z5DhP7qdwOOV8BT50eDlfgY1BrjPQ=/5297795981_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/5hceS8_zqDo8YVSGeyXxGt7pWBYFctcJwAl8OAWNNSY=/5297796701_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 12 Pro 5G 8/128GB Purple Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi Note 12 Pro 5G 8/128GB Purple Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -49764,10 +49764,10 @@
     <param name="Вспышка фронтальной камеры">Нет</param>
     <param name="Стан" unit="">Refurbished, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-    <offer id="2459079270" available="false">
+    <offer id="2459079270" available="true">
     <article>X12256B</article>
     <url>https://jetpad.com.ua/ua/p2459079270-smartfon-xiaomi-8256gb.html</url>
-    <price>12099</price><price_old>13315</price_old>
+    <price>11659</price><price_old>13315</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/dYRzIOTfRzkCflRPhvZCt4HRcMukAwzMGmFDEqBCcc8=/6455700251_smartfon-xiaomi-12.jpg</picture>
@@ -49778,7 +49778,7 @@
     <picture>https://images.prom.ua/SniUCmsX6zBlboh7r3Eyv8oYa_PuzzeCTw3ESTdYyZo=/6455700553_smartfon-xiaomi-12.jpg</picture>
     <picture>https://images.prom.ua/eHwgwSf_cDP-YYjXbRZoMbWseVkNEovlWOtxBXkzmPI=/6455700678_smartfon-xiaomi-12.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi 12 8/256GB Blue Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi 12 8/256GB Blue Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -52009,7 +52009,7 @@
     <param name="Вспышка фронтальной камеры">Нет</param>
     <param name="Стан" unit="">Refurbished, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-    <offer id="2044194142-1" available="false">
+    <offer id="2044194142-1" available="true">
     <article>XRN12P5G8128B</article>
     <url>https://jetpad.com.ua/ua/p2044194142-smartfon-xiaomi-redmi.html</url>
     <price>8029</price><price_old>9315</price_old>
@@ -52023,7 +52023,7 @@
     <picture>https://images.prom.ua/PHbFMLpDEedZBr8yw5yYhgwLM-lj3bv9GODVh1RnVKE=/5196521421_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/K4PZv0i9tFXHgXU9MZ8AjodVkEBBT-LXHurG8slbNSM=/5196521422_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 12 Pro 5G 8/128GB Black Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi Note 12 Pro 5G 8/128GB Black Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -52379,7 +52379,7 @@
     <param name="Стереодинамики">Да</param>
     <param name="Вспышка фронтальной камеры">Нет</param>
   </offer>
-    <offer id="2321900170" available="false">
+    <offer id="2321900170" available="true">
     <article>XRN11P128G</article>
     <url>https://jetpad.com.ua/ua/p2321900170-smartfon-xiaomi-redmi.html</url>
     <price>7865</price><price_old>8315</price_old>
@@ -52391,7 +52391,7 @@
     <picture>https://images.prom.ua/0m3K6KhyxYYz911eXShSBaENZW49fAgAaEZKGkNV_ME=/6221858533_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/zQRpxB2phT3MRnKMumj01PCTbvAr6qSspFiaePdCOjI=/6221859292_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 11 Pro 8/128GB Graphite Gray Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi Note 11 Pro 8/128GB Graphite Gray Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -52756,7 +52756,7 @@
     <param name="Вес" unit="г">193</param>
     <param name="Стан" unit="">Refurbіshed, запечатаний, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-    <offer id="2321925098" available="false">
+    <offer id="2321925098" available="true">
     <article>XRN11P6128GG</article>
     <url>https://jetpad.com.ua/ua/p2321925098-smartfon-xiaomi-redmi.html</url>
     <price>7698</price><price_old>8315</price_old>
@@ -52768,7 +52768,7 @@
     <picture>https://images.prom.ua/OLn4sZeAgcdLYLxUASRGQbU9fU3rhpzKnpOGEcWIFW0=/6221967179_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/b4I92WT5PmQY_YNy7oUvu2zKqrYqDim7BQAxM66K5E4=/6221967180_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 11 Pro 6/128GB Graphite Gray Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi Note 11 Pro 6/128GB Graphite Gray Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -53473,7 +53473,7 @@
     <param name="Стан" unit="">Refurbіshed, запечатаний, в заводських плівках, гарантія 12 мсц</param>
     <param name="Разрешение экрана" unit="">2400 x 1080</param>
   </offer>
-    <offer id="2321935762" available="true">
+    <offer id="2321935762" available="false">
     <article>XRN7P6128BL</article>
     <url>https://jetpad.com.ua/ua/p2321935762-smartfon-xiaomi-redmi.html</url>
     <price>3885</price><price_old>4515</price_old>
@@ -53484,7 +53484,7 @@
     <picture>https://images.prom.ua/YGcDlb8Ms49bZrE-ZbgjC52lfEGIEqbxr1Dn7ws_eFU=/6222018266_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/gshKv5KVp-YJ0YYc7HrihBYq5tcETQ7W62K6fONrzU0=/6222018544_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 7 Pro 6/128GB Blue Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi Note 7 Pro 6/128GB Blue Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><div>
 <div>
 <table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
@@ -54187,10 +54187,10 @@
     <param name="Количество мегапикселей камеры на лицевой панели" unit="Мп">5</param>
     <param name="Стан" unit="">Refurbished, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-    <offer id="2333834407" available="false">
+    <offer id="2333834407" available="true">
     <article>R96128GR</article>
     <url>https://jetpad.com.ua/ua/p2333834407-smartfon-xiaomi-redmi.html</url>
-    <price>4729</price><price_old>5315</price_old>
+    <price>4509</price><price_old>5315</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/H0Ep8IV8t8f3W5jWC5zJakq4hDVZICFLCtQx2y40XZg=/4439037011_smartfon-xiaomi-redmi.jpg</picture>
@@ -54202,7 +54202,7 @@
     <picture>https://images.prom.ua/zX8zcBV9gY4AjlQcJKv4C5WcMVzJ-Bjl0CjFgS6xgVM=/4439036878_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/tWk6AcWeb8zOhE7Abfwgsipdu28CTgJkpaYd4VRB5rk=/4439037012_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi 9 6/128 GB Green Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi 9 6/128 GB Green Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -54537,10 +54537,10 @@
     <param name="Вес" unit="г">198</param>
     <param name="Стан" unit="">Refurbіshed, запечатаний, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-    <offer id="2314945819" available="false">
+    <offer id="2314945819" available="true">
     <article>R96128B</article>
     <url>https://jetpad.com.ua/ua/p2314945819-smartfon-xiaomi-redmi.html</url>
-    <price>4729</price><price_old>5315</price_old>
+    <price>4509</price><price_old>5315</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/6psclNeB1DKyoes3_KZzn9q4bzxK0FYrDVdAeRgrYsk=/6195725813_smartfon-xiaomi-redmi.jpg</picture>
@@ -54550,7 +54550,7 @@
     <picture>https://images.prom.ua/0__RgPM7ELF2lk1DR1KbzQWKMw_PUzj09S5UYEnXVkA=/6195725819_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/dwT-GuALl7_wQhSwqHNUx-P6pEqR1lM6wTZJweV4YUc=/6195725820_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi 9 6/128 GB Black Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi 9 6/128 GB Black Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -57388,7 +57388,7 @@
     <offer id="2314174451" available="true">
     <article>GP7128L</article>
     <url>https://jetpad.com.ua/ua/p2314174451-smartfon-google-pixel.html</url>
-    <price>13409</price><price_old>16315</price_old>
+    <price>12949</price><price_old>13315</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/Ow1MVKI4txKTJmY0M3K5UF1aiTtLJBuBYRSSDyyZhs0=/6193273952_smartfon-google-pixel.jpg</picture>
@@ -58189,7 +58189,7 @@
     <param name="Камера на лицевой панели">Да</param>
     <param name="Количество мегапикселей камеры на лицевой панели" unit="Мп">32</param>
   </offer>
-  <offer id="2250613511" available="true">
+  <offer id="2250613511" available="false">
     <article>SGS21FE128O</article>
     <url>https://jetpad.com.ua/ua/p2250613511-samsung-galaxy-s21.html</url>
     <price>11225</price><price_old>12315</price_old>
@@ -58201,7 +58201,7 @@
     <picture>https://images.prom.ua/o3rsh18H-qWJmzqYl2NSpW9tL8JPTGnua-K9Y-EWg2Q=/5966061032_samsung-galaxy-s21.jpg</picture>
     <picture>https://images.prom.ua/QNrBns0uWk3j6sRTHA_ixnY6YuUc9XfNMTDvirv-URY=/5966061406_samsung-galaxy-s21.jpg</picture>
     <vendor>Samsung</vendor>
-    <name>Samsung Galaxy S21 FE 5G 6/128GB SM-G990B Olive</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
+    <name>Samsung Galaxy S21 FE 5G 6/128GB SM-G990B Olive</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><div>
 <table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
@@ -58569,7 +58569,7 @@
     <param name="Количество мегапикселей камеры на лицевой панели" unit="Мп">32</param>
     <param name="Стереодинамики">Да</param>
   </offer>
-    <offer id="2237498862" available="true">
+    <offer id="2237498862" available="false">
     <article>SGS21U998U128B</article>
     <url>https://jetpad.com.ua/ua/p2237498862-samsung-galaxy-s21.html</url>
     <price>18749</price><price_old>20315</price_old>
@@ -58580,7 +58580,7 @@
     <picture>https://images.prom.ua/IbIxNeIYeihdXnDGLhuqa6DeJNf9EbsN0Ijtn78pspk=/5915817776_samsung-galaxy-s21.jpg</picture>
     <picture>https://images.prom.ua/erTAE4kEU36m3suY55wfpHQ8xIr6sro1t_uOC3gj_vM=/5915817777_samsung-galaxy-s21.jpg</picture>
     <vendor>Samsung</vendor>
-    <name>Samsung Galaxy S21 Ultra 5G SM-G998U 12/128GB Phantom Black</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
+    <name>Samsung Galaxy S21 Ultra 5G SM-G998U 12/128GB Phantom Black</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -63540,7 +63540,7 @@
     <param name="Количество мегапикселей камеры на лицевой панели" unit="Мп">32</param>
     <param name="Стереодинамики">Да</param>
   </offer>
-    <offer id="1982737699" available="true">
+    <offer id="1982737699" available="false">
     <article>SGS21FE128W</article>
     <url>https://jetpad.com.ua/ua/p1982737699-samsung-galaxy-s21.html</url>
     <price>11225</price><price_old>20659</price_old>
@@ -63552,7 +63552,7 @@
     <picture>https://images.prom.ua/Dn18zo5l6G1QGz8WFel1HYitqdOyhU55AyRMMktOkJc=/4972820460_samsung-galaxy-s21.jpg</picture>
     <picture>https://images.prom.ua/EBlAwLKjbWdEhe8Pyhy3LqJvEkRaLQYWfgUTN1DkHtw=/4972820715_samsung-galaxy-s21.jpg</picture>
     <vendor>Samsung</vendor>
-    <name>Samsung Galaxy S21 FE 5G 6/128gb SM-G990B White</name><stock_quantity>100</stock_quantity> <state>Refurbished</state>
+    <name>Samsung Galaxy S21 FE 5G 6/128gb SM-G990B White</name><stock_quantity>0</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><div>
 <table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
@@ -65586,7 +65586,7 @@
     <param name="Вес" unit="г">193</param>
     <param name="Стан" unit="">Refurbіshed, запечатаний, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-  <offer id="694686808" available="true">
+  <offer id="694686808" available="false">
     <article>XRN4XG32</article>
     <url>https://jetpad.com.ua/p694686808-smartfon-xiaomi-redmi.html</url>
     <price>3209</price> <price_old>4150</price_old>
@@ -65596,7 +65596,7 @@
     <picture>https://images.prom.ua/rgYtWS_KvxbtA4rMQkqYBnNpJqynIqzypmOo2xxPTTE=/1145108444_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/zaT-Z0bJqaayQvKjxhqXOMAliTp5RCporaVh0jXLvsM=/1835113615_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 4x 3/32GB Gold Global Rom Refurbished</name> <stock_quantity>100</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi Note 4x 3/32GB Gold Global Rom Refurbished</name> <stock_quantity>0</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><div>
 <table border="1" class="ck-table-constructor ck-theme-grey ck-table-constructor_type_lite">
 	<tbody>
@@ -67876,10 +67876,10 @@
     <param name="Количество поддерживаемых SIM-карт" unit="">2 (или 1 SIM + карта памяти</param>
     <param name="Процессор" unit="">Qualcomm Snapdragon 625 MSM8953</param>
   </offer>
-    <offer id="1915057954" available="false">
+    <offer id="1915057954" available="true">
     <article>SGS208128W</article>
     <url>https://jetpad.com.ua/ua/p1915057954-smartfon-samsung-galaxy.html</url>
-    <price>13849</price><price_old>14520</price_old>
+    <price>12539</price><price_old>13520</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/D56nBQ80EGLgVFRSsMBjM6ExnS6ldVVpX1heXwhqB0U=/4761072976_smartfon-samsung-galaxy.jpg</picture>
@@ -67887,7 +67887,7 @@
     <picture>https://images.prom.ua/u0b5uW8DNCH9Lqyv4AOL0sQkWM-iSGQiSdU8WdARSJk=/4761073722_smartfon-samsung-galaxy.jpg</picture>
     <picture>https://images.prom.ua/J5dH1SARo-R6OHOk3V2C0AsH9BA04m6zLUc2pd7_5KA=/4761073967_smartfon-samsung-galaxy.jpg</picture>
     <vendor>Samsung</vendor>
-    <name>Смартфон Samsung Galaxy S20 5G SM-G981 8/128GB White</name><stock_quantity>0</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Samsung Galaxy S20 5G SM-G981 8/128GB White</name><stock_quantity>100</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-theme-grey ck-table-constructor_type_lite">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -68793,10 +68793,10 @@
     <param name="Толщина" unit="мм">7.9</param>
     <param name="Вес" unit="г">163</param>
   </offer>
-   <offer id="1983557370" available="false">
+   <offer id="1983557370" available="true">
     <article>SGS20B12128W</article>
     <url>https://jetpad.com.ua/ua/p1983557370-smartfon-samsung-galaxy.html</url>
-    <price>13849</price><price_old>19690</price_old>
+    <price>12539</price><price_old>13690</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/DC991nS24auwxR_sikBXObMgHh9wUf6ThY8hIt2NIsE=/4975813211_smartfon-samsung-galaxy.jpg</picture>
@@ -68804,7 +68804,7 @@
     <picture>https://images.prom.ua/fzOx8KX59aw_EvVIAqsU70cQk3DxCIyPRxCosbTUcRI=/4975813284_smartfon-samsung-galaxy.jpg</picture>
     <picture>https://images.prom.ua/lWwxE6GCZNKeTPMJYAJRCx6doO3p8I_W0XvRDKb0Zgc=/4975813286_smartfon-samsung-galaxy.jpg</picture>
     <vendor>Samsung</vendor>
-    <name>Смартфон Samsung Galaxy S20 5G SM-G981B 12/128GB White</name><stock_quantity>0</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Samsung Galaxy S20 5G SM-G981B 12/128GB White</name><stock_quantity>100</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -72036,7 +72036,7 @@
     <param name="Количество поддерживаемых SIM-карт" unit="">2 (или 1 SIM + карта памяти</param>
     <param name="Процессор" unit="">Qualcomm Snapdragon 625 MSM8953</param>
   </offer>
-  <offer id="796874283" available="true">
+  <offer id="796874283" available="false">
     <article>XRN4XP16</article>
     <url>https://jetpad.com.ua/p796874283-smartfon-xiaomi-redmi.html</url>
     <price>2969</price> <price_old>3999</price_old>
@@ -72046,7 +72046,7 @@
     <picture>https://images.prom.ua/C09sdxzMzRYKzg0TeRqlfFsqtzfP9tasDfB7LNz_-og=/1369522555_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/Ms740zLfyIovx7h2ajUEDYXgu-Sa9ZGrC35mjVUz1x8=/1369522567_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 4X 3/16GB Pink Global Rom Refurbished</name> <stock_quantity>100</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi Note 4X 3/16GB Pink Global Rom Refurbished</name> <stock_quantity>0</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><h3 class="MsoNormal"><p><strong> Гарантия 12 мес.</strong></p></h3>
 
 <table>
@@ -72412,7 +72412,7 @@
     <param name="Количество поддерживаемых SIM-карт" unit="">2 (или 1 SIM + карта памяти</param>
     <param name="Процессор" unit="">Qualcomm Snapdragon 625 MSM8953</param>
   </offer>
-  <offer id="796876770" available="true">
+  <offer id="796876770" available="false">
     <article>XRN4XG16</article>
     <url>https://jetpad.com.ua/p796876770-smartfon-xiaomi-redmi.html</url>
     <price>2969</price> <price_old>3999</price_old>
@@ -72422,7 +72422,7 @@
     <picture>https://images.prom.ua/TInro4MSGv8_O6o9Vw-n7eN4lbWt3m-4JeW2XoKsc8k=/1369525777_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/Wzda-puQJbBndskZ6Bc_D-0HhvU7wgR66HcgzdE2NMo=/1369525784_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 4x 3/16GB Gold Global Rom Refurbished</name> <stock_quantity>100</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi Note 4x 3/16GB Gold Global Rom Refurbished</name> <stock_quantity>0</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><h3 class="MsoNormal"><p><strong> Гарантия 12 мес.</strong></p></h3>
 
 <table>
@@ -72787,7 +72787,7 @@
     <param name="Количество поддерживаемых SIM-карт" unit="">2 (или 1 SIM + карта памяти</param>
     <param name="Процессор" unit="">Qualcomm Snapdragon 625 MSM8953</param>
   </offer>
-  <offer id="796879129" available="true">
+  <offer id="796879129" available="false">
     <article>XRN4XGR16</article>
     <url>https://jetpad.com.ua/p796879129-smartfon-xiaomi-redmi.html</url>
     <price>2969</price> <price_old>3999</price_old>
@@ -72797,7 +72797,7 @@
     <picture>https://images.prom.ua/Hyx7LEACt96E5vACOA3HCfLjzTvMoXARSUBYhpHAZhU=/1835159978_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/ozqnargg-R3ApUWmEtiXuXn1LaGFIObjqLmLingruxg=/1835160118_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 4X 3/16GB Gray Global Rom Refurbished</name> <stock_quantity>100</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi Note 4X 3/16GB Gray Global Rom Refurbished</name> <stock_quantity>0</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><h3 class="MsoNormal"><p><strong> Гарантия 12 мес.</strong></p></h3>
 
 <table>
@@ -73162,7 +73162,7 @@
     <param name="Количество поддерживаемых SIM-карт" unit="">2 (или 1 SIM + карта памяти</param>
     <param name="Процессор" unit="">Qualcomm Snapdragon 625 MSM8953</param>
   </offer>
-  <offer id="895531496" available="true">
+  <offer id="895531496" available="false">
     <article>XRN4XGR32</article>
     <url>https://jetpad.com.ua/p895531496-smartfon-xiaomi-redmi.html</url>
     <price>3209</price> <price_old>4150</price_old>
@@ -73172,7 +73172,7 @@
     <picture>https://images.prom.ua/8zDC5q4jGtQ_BxyFTrFDh35muxgS-2v-s__Q2s8SIkw=/1602118097_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/0T5g6AqPsxGJ-pn99vlBRxcTggQWZ5B-Iu7kPa5li7g=/1835167841_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 4x 3/32GB Gray Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi Note 4x 3/32GB Gray Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><h3 class="MsoNormal"><p><strong> Гарантия 12 мес.</strong></p></h3>
 
 <table>
@@ -76752,7 +76752,7 @@
     <param name="Камера на лицевой панели">Да</param>
     <param name="Количество мегапикселей камеры на лицевой панели" unit="Мп">10</param>
   </offer>
-    <offer id="2190259589" available="true">
+    <offer id="2190259589" available="false">
     <article>SGS21FE128L</article>
     <url>https://jetpad.com.ua/ua/p2190259589-samsung-galaxy-s21.html</url>
     <price>10889</price><price_old>11659</price_old>
@@ -76764,7 +76764,7 @@
     <picture>https://images.prom.ua/1VLziWtPOmd4mZU9FvWeNWIPFhxn28-9Azfxyv3Vm-U=/5737359191_samsung-galaxy-s21.jpg</picture>
     <picture>https://images.prom.ua/ZUIVaBhxLbEPPidMtguxh6v-Ch8mVK_FKjFgyRdowHM=/5737359216_samsung-galaxy-s21.jpg</picture>
     <vendor>Samsung</vendor>
-    <name>Samsung Galaxy S21 FE 5G 6/128GB SM-G990B Lavender Refurbished</name><stock_quantity>100</stock_quantity> <state>Refurbished</state>
+    <name>Samsung Galaxy S21 FE 5G 6/128GB SM-G990B Lavender Refurbished</name><stock_quantity>0</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><div>
 <table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
@@ -77486,7 +77486,7 @@
     <param name="Толщина" unit="мм">7.9</param>
     <param name="Вес" unit="г">172</param>
   </offer>
-    <offer id="2190253152" available="true">
+    <offer id="2190253152" available="false">
     <article>G991PW</article>
     <url>https://jetpad.com.ua/ua/p2190253152-samsung-galaxy-s21.html</url>
     <price>13959</price><price_old>15659</price_old>
@@ -77499,7 +77499,7 @@
     <picture>https://images.prom.ua/Kh0q-e4HcVsEMtoi-EFHKv2xnuTjPI1HjdJL-TY0oTE=/5737321800_samsung-galaxy-s21.jpg</picture>
     <picture>https://images.prom.ua/Hwdv-vrKpKn1XVLy_4BkoQM9fhFzHYaIL7gLmh06C6c=/5737321801_samsung-galaxy-s21.jpg</picture>
     <vendor>Samsung</vendor>
-    <name>Samsung Galaxy S21 5G 128GB SM-G991 Phantom White Refurbished</name><stock_quantity>100</stock_quantity> <state>Refurbished</state>
+    <name>Samsung Galaxy S21 5G 128GB SM-G991 Phantom White Refurbished</name><stock_quantity>0</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><div>
 <table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
@@ -78550,7 +78550,7 @@
     <param name="Толщина" unit="мм">7.9</param>
     <param name="Вес" unit="г">172</param>
   </offer>
-    <offer id="1895250574" available="true">
+    <offer id="1895250574" available="false">
     <article>XRN105G256G</article>
     <url>https://jetpad.com.ua/ua/p1895250574-smartfon-xiaomi-redmi.html</url>
     <price>5719</price><price_old>6659</price_old>
@@ -78560,7 +78560,7 @@
     <picture>https://images.prom.ua/oBN2n6-hptBHRlfYN8RGD-r_rnCeb9pIytTAonTlyMY=/4693773765_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/R1XJJ0-_2CpuhxFwWohBnofwrxJjD-5RSVKLgSHCWNQ=/4693773574_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 10 5G 8/256GB Aurora Green Global Rom Refurbished</name><stock_quantity>100</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi Note 10 5G 8/256GB Aurora Green Global Rom Refurbished</name><stock_quantity>0</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-theme-grey ck-table-constructor_type_lite">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -82406,7 +82406,7 @@
     <param name="Разрешение экрана" unit="">1440х3040</param>
     <param name="Процессор" unit="">Qualcomm Snapdragon 855</param>
   </offer>
-    <offer id="2137677660" available="true">
+    <offer id="2137677660" available="false">
     <article>SGS10P975U128W</article>
     <url>https://jetpad.com.ua/ua/p2137677660-smartfon-samsung-galaxy.html</url>
     <price>12475</price><price_old>13659</price_old>
@@ -82420,7 +82420,7 @@
     <picture>https://images.prom.ua/G_iGP9e08dr3v9dlHXUj8bBmGTY27HHOOgIpqA72nXE=/5559268962_smartfon-samsung-galaxy.jpg</picture>
     <picture>https://images.prom.ua/ChYkzFBgI1B0rkfIGYtVA-CYkGRccCWmQ_phtiwxWp4=/5559268964_smartfon-samsung-galaxy.jpg</picture>
     <vendor>Samsung</vendor>
-    <name>Смартфон Samsung Galaxy S10+ SM-G975U 128GB White Refurbished</name><stock_quantity>100</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Samsung Galaxy S10+ SM-G975U 128GB White Refurbished</name><stock_quantity>0</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><div>
 <table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
@@ -87375,7 +87375,7 @@
     <offer id="2473975050" available="true">
     <article>XRN135G128G</article>
     <url>https://jetpad.com.ua/ua/p2473975050-smartfon-xiaomi-redmi.html</url>
-    <price>7039</price><price_old>7315</price_old>
+    <price>7029</price><price_old>7315</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/VtJdkI2JmByesOoENfvUMjUvhp6M7RKRsU4ZChVbn0I=/6455747185_smartfon-xiaomi-redmi.jpg</picture>
@@ -88092,7 +88092,7 @@
     <offer id="2482600810" available="true">
     <article>XRK40256S</article>
     <url>https://jetpad.com.ua/ua/p2482600810-smartfon-xiaomi-redmi.html</url>
-    <price>8789</price><price_old>9315</price_old>
+    <price>8630</price><price_old>9315</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/eeh2gAHWTwNT6l3fIZsM69EGHWp2ymA6iGmJEMONQUg=/6467989602_smartfon-xiaomi-redmi.jpg</picture>
@@ -88394,17 +88394,17 @@
     <param name="Количество мегапикселей камеры на лицевой панели" unit="Мп">16</param>
     <param name="Стан" unit="">Refurbished, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-    <offer id="2482560703" available="false">
+    <offer id="2482560703" available="true">
     <article>X12256G</article>
     <url>https://jetpad.com.ua/ua/p2482560703-smartfon-xiaomi-8256gb.html</url>
-    <price>12099</price><price_old>13315</price_old>
+    <price>11659</price><price_old>13315</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/c8r5i0jv4SsJhls9xamMsGKQs8R5mblS-qv21lGS8TI=/6467896360_smartfon-xiaomi-12.jpg</picture>
     <picture>https://images.prom.ua/Db_dxTrw0OGk2recxGARUYgwXYAvjFWP1pPseQpXDoM=/6467896626_smartfon-xiaomi-12.jpg</picture>
     <picture>https://images.prom.ua/nShARyaz7H7RjHV1PtPvzhvm036TwLLyK16w4sK5W2E=/6467896915_smartfon-xiaomi-12.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi 12 8/256GB Green Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi 12 8/256GB Green Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -89890,7 +89890,7 @@
     <param name="Толщина" unit="мм">7.1</param>
     <param name="Вес" unit="г">465</param>
   </offer>
-  <offer id="895531622" available="true">
+  <offer id="895531622" available="false">
     <article>XRN4XB16</article>
     <url>https://jetpad.com.ua/p895531622-smartfon-xiaomi-redmi.html</url>
     <price>2969</price> <price_old>3999</price_old>
@@ -89900,7 +89900,7 @@
     <picture>https://images.prom.ua/oYet4Ed4d5IksxVbnQzLUNbvX4YHfuRZdCE4eRccMFo=/1602121550_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/MVqPM8ZM1JM7Kn5gvogvk2Yeh45wjQlit6JVM1Hzphw=/1602121549_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 4X 3/16GB Black Global Rom Refurbished</name> <stock_quantity>100</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi Note 4X 3/16GB Black Global Rom Refurbished</name> <stock_quantity>0</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><h3 class="MsoNormal"><p><strong> Гарантия 12 мес.</strong></p></h3>
 
 <table>
@@ -92735,7 +92735,7 @@
     <param name="Количество поддерживаемых SIM-карт" unit="">2 (или 1 SIM + карта памяти</param>
     <param name="Максимальное разрешение видео" unit="">3040х1440</param>
   </offer>
-  <offer id="1867003514" available="true">
+  <offer id="1867003514" available="false">
     <article>SMG986UB</article>
     <url>https://jetpad.com.ua/ua/p1867003514-smartfon-samsung-galaxy.html</url>
     <price>12979</price> <price_old>14599</price_old>
@@ -92748,7 +92748,7 @@
     <picture>https://images.prom.ua/RAVTo-ZfHFaGMci0fSifcyIVSZRv9q8brfKC9AJpmZ8=/4591309538_smartfon-samsung-galaxy.jpg</picture>
     <picture>https://images.prom.ua/WglPpkPafDIDUiz4BplDmze1WM6rCzoiedQy0rdSg4k=/4591309539_smartfon-samsung-galaxy.jpg</picture>
     <vendor>Samsung</vendor>
-    <name>Смартфон Samsung Galaxy S20+ 5G SM-G986U 12/128GB Black Refurbished</name><stock_quantity>100</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Samsung Galaxy S20+ 5G SM-G986U 12/128GB Black Refurbished</name><stock_quantity>0</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-theme-grey ck-table-constructor_type_lite">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -93880,7 +93880,7 @@
     <param name="Процессор" unit="">Qualcomm Snapdragon 845</param>
     <param name="Состояние" unit="">Refurbіshed, запечатаний, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-    <offer id="1930962581" available="false">
+    <offer id="1930962581" available="true">
     <article>S20FE780F6128O</article>
     <url>https://jetpad.com.ua/ua/p1930962581-smartfon-samsung-galaxy.html</url>
     <price>9819</price><price_old>15000</price_old>
@@ -93891,7 +93891,7 @@
     <picture>https://images.prom.ua/GWk32lxMeR9m-JryFAgf1cwVII8haIZvTS340outZ9U=/4809732555_smartfon-samsung-galaxy.jpg</picture>
     <picture>https://images.prom.ua/g2UQxm3vZRpWHJLXFqrewnm4J98m1ZEZ7yWUHzp8SYk=/4809732556_smartfon-samsung-galaxy.jpg</picture>
     <vendor>Samsung</vendor>
-    <name>Смартфон Samsung Galaxy S20 FE SM-G780F 6/128GB Orange</name><stock_quantity>0</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Samsung Galaxy S20 FE SM-G780F 6/128GB Orange</name><stock_quantity>100</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-theme-grey ck-table-constructor_type_lite">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -94233,7 +94233,7 @@
     <param name="Вес" unit="г">190</param>
     <param name="Разрешение экрана" unit="">2400 x 1080</param>
   </offer>
-    <offer id="1908554312" available="true">
+    <offer id="1908554312" available="false">
     <article>S20FE6128PU</article>
     <url>https://jetpad.com.ua/ua/p1908554312-smartfon-samsung-galaxy.html</url>
     <price>9949</price><price_old>14659</price_old>
@@ -94245,7 +94245,7 @@
     <picture>https://images.prom.ua/W8Iml3aGc6UhJPCWIR8uLgctGZSuk16CXDIOPXmj9YA=/4738443440_smartfon-samsung-galaxy.jpg</picture>
     <picture>https://images.prom.ua/mzT-smVNBNx0oA-PoLWJMagQK80qlZBVXA4RLXjjkQI=/4738443597_smartfon-samsung-galaxy.jpg</picture>
     <vendor>Samsung</vendor>
-    <name>Смартфон Samsung Galaxy S20 FE SM-G780G 6/128GB Pink</name><stock_quantity>100</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Samsung Galaxy S20 FE SM-G780G 6/128GB Pink</name><stock_quantity>0</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-theme-grey ck-table-constructor_type_lite">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -94940,7 +94940,7 @@
     <param name="Толщина" unit="мм">8.4</param>
     <param name="Вес" unit="г">190</param>
   </offer>
-    <offer id="1919492420" available="true">
+    <offer id="1919492420" available="false">
     <article>SG981UB</article>
     <url>https://jetpad.com.ua/ua/p1919492420-smartfon-samsung-galaxy.html</url>
     <price>11439</price><price_old>12589</price_old>
@@ -94952,7 +94952,7 @@
     <picture>https://images.prom.ua/CBAKNGbKfZ6Z_ZGGvIqjpYzcRsqKy4eYiut1KKkets8=/4769943895_smartfon-samsung-galaxy.jpg</picture>
     <picture>https://images.prom.ua/Q2OtzjgrpKYfd8M0KqF1ez9iQ4YaaZe2gZGwhC2-M5A=/4769944273_smartfon-samsung-galaxy.jpg</picture>
     <vendor>Samsung</vendor>
-    <name>Смартфон Samsung Galaxy S20 5G SM-G981U Gray</name><stock_quantity>100</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Samsung Galaxy S20 5G SM-G981U Gray</name><stock_quantity>0</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-theme-grey ck-table-constructor_type_lite">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -98567,7 +98567,7 @@
     <param name="Процессор" unit="">Qualcomm Snapdragon 660</param>
     <param name="Состояние" unit="">Refurbished</param>
   </offer>
-  <offer id="950076245" available="false">
+  <offer id="950076245" available="true">
     <article>XRN7464B</article>
     <url>https://jetpad.com.ua/p950076245-smartfon-xiaomi-redmi.html</url>
     <price>3749</price> <price_old>4890</price_old>
@@ -98580,7 +98580,7 @@
     <picture>https://images.prom.ua/jmLAmHNBgNWuLKzGZSVUXwsGvUC0F4CWU94VLDr9E34=/1733137045_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/ADRhTYPPqA5zbX_kryPMgSpxIZh39r8kBrAzDHU9AeE=/1733137050_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 7 4/64GB Black Global Rom Refurbished</name> <stock_quantity>0</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi Note 7 4/64GB Black Global Rom Refurbished</name> <stock_quantity>100</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><div>
 <table border="1" class="ck-table-constructor ck-theme-grey ck-table-constructor_type_lite">
 	<tbody>
@@ -100766,7 +100766,7 @@
   <offer id="1820826417" available="false">
     <article>R94128GR</article>
     <url>https://jetpad.com.ua/p1820826417-smartfon-xiaomi-redmi.html</url>
-    <price>4675</price> <price_old>5990</price_old>
+    <price>4345</price> <price_old>5990</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/H0Ep8IV8t8f3W5jWC5zJakq4hDVZICFLCtQx2y40XZg=/4439037011_smartfon-xiaomi-redmi.jpg</picture>
@@ -100778,7 +100778,7 @@
     <picture>https://images.prom.ua/zX8zcBV9gY4AjlQcJKv4C5WcMVzJ-Bjl0CjFgS6xgVM=/4439036878_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/tWk6AcWeb8zOhE7Abfwgsipdu28CTgJkpaYd4VRB5rk=/4439037012_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi 9 4/128GB Green Global Rom Refurbished</name> <stock_quantity>0</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi 9 4/128GB Green Global Rom Refurbished</name> <stock_quantity>100</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-theme-grey ck-table-constructor_type_lite">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -101107,10 +101107,10 @@
     <param name="Вес" unit="г">198</param>
     <param name="Стан" unit="">Refurbіshed, запечатаний, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-  <offer id="1819865455" available="false">
+  <offer id="1819865455" available="true">
     <article>R94128СG</article>
     <url>https://jetpad.com.ua/p1819865455-smartfon-xiaomi-redmi.html</url>
-    <price>4675</price> <price_old>5890</price_old>
+    <price>4345</price> <price_old>5890</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/hpf-MbHePU5PCeDkDu_qICAHzOwg8zIC-P8YzOL5pCg=/4435471754_smartfon-xiaomi-redmi.jpg</picture>
@@ -101120,7 +101120,7 @@
     <picture>https://images.prom.ua/yKM5jAg6cYbRRe1gr7i57t4G0qMJRwpWpxE4epMwIXw=/4435471409_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/getoZ7OWAemUtmnHXW_3YdZQ369WgcmHhThuvQePleE=/4435471358_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi 9 4/128GB Carbon Grey Global Rom Refurbished</name> <stock_quantity>0</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi 9 4/128GB Carbon Grey Global Rom Refurbished</name> <stock_quantity>100</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-theme-grey ck-table-constructor_type_lite">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -106959,7 +106959,7 @@ Google Assistant</h3>
     <param name="Толщина" unit="мм">8.8</param>
     <param name="Вес" unit="г">220</param>
   </offer>
-    <offer id="1869070729" available="true">
+    <offer id="1869070729" available="false">
     <article>SG988UW</article>
     <url>https://jetpad.com.ua/p1869070729-smartfon-samsung-galaxy.html</url>
     <price>17079</price> <price_old>19099</price_old>
@@ -106971,7 +106971,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/jQv3wabFpOVDmDPnRhF1MBaYlpHZhT3IAyfsBEalAyU=/5276884368_smartfon-samsung-galaxy.jpg</picture>
     <picture>https://images.prom.ua/HtxHS0yMcTmMepoahc_HkYPDWHxVF8Hr4OZ9KJd83LY=/5276886684_smartfon-samsung-galaxy.jpg</picture>
     <vendor>Samsung</vendor>
-    <name>Смартфон Samsung Galaxy S20 Ultra SM-G988U 12/128GB White</name>  <stock_quantity>100</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Samsung Galaxy S20 Ultra SM-G988U 12/128GB White</name>  <stock_quantity>0</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-theme-grey ck-table-constructor_type_lite">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -107334,7 +107334,7 @@ Google Assistant</h3>
   <offer id="1409338581" available="false">
     <article>XR9A64GG</article>
     <url>https://jetpad.com.ua/p1409338581-smartfon-xiaomi-redmi.html</url>
-    <price>3275</price> <price_old>3756</price_old>
+    <price>3375</price> <price_old>3756</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/PHEHVr_nUbkkGdxdqO-rQn3bpiBxs_lhdIgWVd_85xo=/3100297367_smartfon-xiaomi-redmi.jpg</picture>
@@ -111567,7 +111567,7 @@ Google Assistant</h3>
     <param name="Толщина" unit="мм">7.8</param>
     <param name="Вес" unit="г">202</param>
   </offer>
-  <offer id="1786404908" available="true">
+  <offer id="1786404908" available="false">
     <article>SG996UPG</article>
     <url>https://jetpad.com.ua/p1786404908-samsung-galaxy-s21.html</url>
     <price>14750</price> <price_old>15990</price_old>
@@ -111578,7 +111578,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/EsYM8n2wCMJ_95RNK1zSnso1dDy05KxDvJKclKUy2DY=/4322921843_samsung-galaxy-s21.jpg</picture>
     <picture>https://images.prom.ua/Jwdxp9Xhhl54YlyKJTa8FPXr8vT0F4f6P3WXJmxzPbk=/4322919062_samsung-galaxy-s21.jpg</picture>
     <vendor>Samsung</vendor>
-    <name>Samsung Galaxy S21+ 5G 8/128Gb SM-G996U Phantom Gray Refurbished</name> <stock_quantity>100</stock_quantity> <state>Refurbished</state>
+    <name>Samsung Galaxy S21+ 5G 8/128Gb SM-G996U Phantom Gray Refurbished</name> <stock_quantity>0</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-theme-grey ck-table-constructor_type_lite">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -118766,10 +118766,10 @@ Google Assistant</h3>
     <param name="Толщина" unit="мм">7.78</param>
     <param name="Вес" unit="г">172.5</param>
   </offer>
-  <offer id="1868580036" available="false">
+  <offer id="1868580036" available="true">
     <article>GP8128KC</article>
     <url>https://jetpad.com.ua/p1868580036-smartfon-google-pixel.html</url>
-    <price>14459</price> <price_old>15939</price_old>
+    <price>11869</price> <price_old>12939</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/-aboDV_TCzWvDhkKUnIC1bwny6l8lfT_wggPCfsn4yk=/4596690949_smartfon-google-pixel.jpg</picture>
@@ -118778,7 +118778,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/dMYHCDL4PMITHJfp9gi5bBJ4ycBmmbgWa9plPvOnyeo=/4596691671_smartfon-google-pixel.jpg</picture>
     <picture>https://images.prom.ua/5p1KUxRBXcRlTCYjwN8rVUAzhO_UijQdFpQmj4UzReo=/4596691806_smartfon-google-pixel.jpg</picture>
     <vendor>Google</vendor>
-    <name>Смартфон Google Pixel 6 8/128GB Kinda Coral Refurbished</name> <stock_quantity>0</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Google Pixel 6 8/128GB Kinda Coral Refurbished</name> <stock_quantity>100</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-theme-grey ck-table-constructor_type_lite">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -119784,7 +119784,7 @@ Google Assistant</h3>
     <offer id="1894648801" available="true">
     <article>GP6a128Bl</article>
     <url>https://jetpad.com.ua/ua/p1894648801-smartfon-google-pixel.html</url>
-    <price>10669</price><price_old>11999</price_old>
+    <price>10475</price><price_old>11999</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/YFfPbxKUJL3ryakWNYrLiTeVjAPcQiugrkPsZtTbJek=/4691307768_smartfon-google-pixel.jpg</picture>
@@ -120098,7 +120098,7 @@ Google Assistant</h3>
     <offer id="1884495213-1" available="true">
     <article>GP6a128Ch</article>
     <url>https://jetpad.com.ua/ua/p1884495213-smartfon-google-pixel.html</url>
-    <price>10669</price><price_old>14989</price_old>	
+    <price>10475</price><price_old>14989</price_old>	
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/6276335824_w640_h640_6276335824.jpg</picture>
@@ -120412,10 +120412,10 @@ Google Assistant</h3>
     <param name="Вспышка фронтальной камеры">Нет</param>
     <param name="Разрешение экрана" unit="">2400 x 1080</param>
   </offer>
-    <offer id="1911739486" available="false">
+    <offer id="1911739486" available="TRUe">
     <article>GP6a128S</article>
     <url>https://jetpad.com.ua/ua/p1911739486-smartfon-google-pixel.html</url>
-    <price>12139</price><price_old>14989</price_old>	
+    <price>10475</price><price_old>14989</price_old>	
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/MR6hu-NOSOP3e_Qrw_nE6er0RPBvY76a17Y0DzJIRNY=/4749611882_smartfon-google-pixel.jpg</picture>
@@ -120426,7 +120426,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/fXDBlILLSuab5J2_hPHMSkE_Ke4AREgplPkBDyllkWk=/4749613745_smartfon-google-pixel.jpg</picture>
     <picture>https://images.prom.ua/MdOmXz1_GF2HPKal4Rj8SUJAXtvYXWwR4VH2DTEY9E4=/4749613912_smartfon-google-pixel.jpg</picture>
     <vendor>Google</vendor>
-    <name>Смартфон Google Pixel 6a 6/128GB Sage Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Google Pixel 6a 6/128GB Sage Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-theme-grey ck-table-constructor_type_lite">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -120729,10 +120729,10 @@ Google Assistant</h3>
     <param name="Вспышка фронтальной камеры">Нет</param>
     <param name="Разрешение экрана" unit="">2400 x 1080</param>
   </offer>
-  <offer id="1836445245" available="false">
+  <offer id="1836445245" available="true">
     <article>GP8128SB</article>
     <url>https://jetpad.com.ua/p1836445245-smartfon-google-pixel.html</url>
-    <price>14207</price> <price_old>15939</price_old>
+    <price>11869</price> <price_old>12939</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/jVwnMF5ds3j3Aci3REsDSmoKlj0GoAASx2EpPrb_6TE=/4490292297_smartfon-google-pixel.jpg</picture>
@@ -120742,7 +120742,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/sMXPEAydnPB9fJ79IG_b5JlSGQGAPKMhMWwLZDseBdQ=/4490292144_smartfon-google-pixel.jpg</picture>
     <picture>https://images.prom.ua/EsAy0mDXb0ccOpvHh36XeF5nc-8s-w9uDgaAU7i1eMo=/4490292178_smartfon-google-pixel.jpg</picture>
     <vendor>Google</vendor>
-    <name>Смартфон Google Pixel 6 8/128GB Stormy Black Refurbished</name> <stock_quantity>0</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Google Pixel 6 8/128GB Stormy Black Refurbished</name> <stock_quantity>100</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-theme-grey ck-table-constructor_type_lite">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -129146,7 +129146,7 @@ Google Assistant</h3>
     <param name="Процессор" unit="">Qualcomm Snapdragon 660</param>
     <param name="Состояние" unit="">Refurbished</param>
   </offer>
-  <offer id="1041887275" available="true">
+  <offer id="1041887275" available="false">
     <article>XRN4X316S</article>
     <url>https://jetpad.com.ua/p1041887275-smartfon-xiaomi-redmi.html</url>
     <price>2969</price> <price_old>3999</price_old>
@@ -129154,7 +129154,7 @@ Google Assistant</h3>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/TraXTc4BmYkGzg36S7hC_FSu4yigFJEBWEJ9zOFP61I=/1978453100_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 4X 3/16Gb Silver Global Rom Refurbished</name> <stock_quantity>100</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi Note 4X 3/16Gb Silver Global Rom Refurbished</name> <stock_quantity>0</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><p><strong><span></span></strong></p>
 
 <h3 class="MsoNormal"><p><strong> Гарантия 12 мес.</strong></p></h3>
@@ -134572,7 +134572,7 @@ Google Assistant</h3>
     <param name="Толщина" unit="мм">8.4</param>
     <param name="Вес" unit="г">190</param>
   </offer>
-    <offer id="1908577021" available="true">
+    <offer id="1908577021" available="false">
     <article>S20FE6128РU2</article>
     <url>https://jetpad.com.ua/ua/p1908577021-smartfon-samsung-galaxy.html</url>
     <price>9949</price><price_old>14659</price_old>
@@ -134584,7 +134584,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/0iM2oB6pO4LYcQMrlSVeFB6B1htqyMXpkp6L7ob-WN0=/4738566398_smartfon-samsung-galaxy.jpg</picture>
     <picture>https://images.prom.ua/I5ItTVwqAwhiCfb7PvUVdHPzSdfOUUJRtyv-Nx5rJkg=/4738566606_smartfon-samsung-galaxy.jpg</picture>
     <vendor>Samsung</vendor>
-    <name>Смартфон Samsung Galaxy S20 FE 5G 6/128GB Pink</name><stock_quantity>100</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Samsung Galaxy S20 FE 5G 6/128GB Pink</name><stock_quantity>0</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-theme-grey ck-table-constructor_type_lite">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -135279,7 +135279,7 @@ Google Assistant</h3>
     <param name="Толщина" unit="мм">8.4</param>
     <param name="Вес" unit="г">190</param>
   </offer>
-    <offer id="1930949007" available="false">
+    <offer id="1930949007" available="true">
     <article>S20FE780F6128YE</article>
     <url>https://jetpad.com.ua/ua/p1930949007-smartfon-samsung-galaxy.html</url>
     <price>9819</price><price_old>15000</price_old>
@@ -135290,7 +135290,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/D-qANMcVj__bxtNPK0ZQMPeXNDSONxxJiRYVjQB7LXE=/4809711877_smartfon-samsung-galaxy.jpg</picture>
     <picture>https://images.prom.ua/gTTykyCNw_PwTbtd-p0_NdgZ9IyNSgzoFWpm7f6xgQQ=/4809711697_smartfon-samsung-galaxy.jpg</picture>
     <vendor>Samsung</vendor>
-    <name>Смартфон Samsung Galaxy S20 FE SM-G780F 6/128GB Orange</name><stock_quantity>0</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Samsung Galaxy S20 FE SM-G780F 6/128GB Orange</name><stock_quantity>100</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-theme-grey ck-table-constructor_type_lite">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -138154,7 +138154,7 @@ Google Assistant</h3>
     <param name="Толщина" unit="мм">8.8</param>
     <param name="Вес" unit="г">220</param>
   </offer>
-  <offer id="1627466966" available="true">
+  <offer id="1627466966" available="false">
     <article>SG988UG</article>
     <url>https://jetpad.com.ua/ua/p1627466966-smartfon-samsung-galaxy.html</url>
     <price>17079</price> <price_old>19199</price_old>
@@ -138165,7 +138165,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/W-MEO74bD2gxsVmPmF7F_iBbIPpXMCICXaxUtQ9ebmA=/3816218121_smartfon-samsung-galaxy.jpg</picture>
     <picture>https://images.prom.ua/ymz-aYmzksYpPPM7zuuzStGaeYdQ2huIRgT2PiMsUBM=/3816218231_smartfon-samsung-galaxy.jpg</picture>
     <vendor>Samsung</vendor>
-    <name>Смартфон Samsung Galaxy S20 Ultra SM-G988U 12/128GB Grey Refurbished</name> <stock_quantity>100</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Samsung Galaxy S20 Ultra SM-G988U 12/128GB Grey Refurbished</name> <stock_quantity>0</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-theme-grey ck-table-constructor_type_lite">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -142407,7 +142407,7 @@ Google Assistant</h3>
     <param name="Вес" unit="г">169</param>
     <param name="Состояние" unit="">Refurbіshed, запечатаний, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-  <offer id="1846137542" available="true">
+  <offer id="1846137542" available="false">
     <article>XM8L6128ABL</article>
     <url>https://jetpad.com.ua/p1846137542-smartfon-xiaomi-lite.html</url>
     <price>5895</price> <price_old>6240</price_old>
@@ -142417,7 +142417,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/cSoK35MsDIRTMnLLAaz8deN7frLg0VLMQy-F6kLZIe0=/4519059908_smartfon-xiaomi-mi.jpg</picture>
     <picture>https://images.prom.ua/_amuQR9UcNyg0n7Svb_vsjeDLtwdV7h-PZ-HWaiLjwc=/4519059911_smartfon-xiaomi-mi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Mi 8 Lite 6/128GB Aurora Blue Global Rom Refurbished</name> <stock_quantity>100</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Xiaomi Mi 8 Lite 6/128GB Aurora Blue Global Rom Refurbished</name> <stock_quantity>0</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><p><strong><span></span></strong></p>
 
 <div>
@@ -144583,7 +144583,7 @@ Google Assistant</h3>
     <offer id="1914704212" available="true">
     <article>XRN105G128G</article>
     <url>https://jetpad.com.ua/ua/p1914704212-smartfon-xiaomi-redmi.html</url>
-    <price>5305</price><price_old>6069</price_old>
+    <price>5139</price><price_old>6069</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/d5Lb0hy0rilD-6orMEbmGi8HTJO71zLjMW-CwBrtNqo=/4759919419_smartfon-xiaomi-redmi.jpg</picture>
@@ -144934,7 +144934,7 @@ Google Assistant</h3>
    <offer id="1914707606" available="true">
     <article>XRN105G128GG</article>
     <url>https://jetpad.com.ua/ua/p1914707606-smartfon-xiaomi-redmi.html</url>
-    <price>5305</price><price_old>6069</price_old>
+    <price>5139</price><price_old>6069</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/NbM5CARzNhmVHcWXtQ7EbLYuukgRBcGRJKTmhj1DCAA=/4759934940_smartfon-xiaomi-redmi.jpg</picture>
@@ -152761,10 +152761,10 @@ Google Assistant</h3>
     <param name="Стереодинамики">Да</param>
     <param name="Разъем для наушников">3,5 мм</param>
   </offer>
-  <offer id="1643210627" available="false">
+  <offer id="1643210627" available="true">
     <article>X10AB64</article>
     <url>https://jetpad.com.ua/p1643210627-smartfon-xiaomi-redmi.html</url>
-    <price>3339</price> <price_old>4385</price_old>
+    <price>3839</price> <price_old>4385</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/W-1kpU3ahOC8vA5G5_bRt8VATVKiMPd3Yi0L1NnkCkY=/3865004566_smartfon-xiaomi-redmi.jpg</picture>
@@ -152773,7 +152773,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/JAI_qf8wZdEBP1tUx2-i3ZNFwpO6QKpk4cLpCqDz4VE=/3865004465_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/pzeyHh_l8D9TiYLMkx8xB76xT5_BEljhlWTxGlYWGF8=/3865004462_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi 10A 4/64GB Black Global Rom Refurbished</name> <stock_quantity>0</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi 10A 4/64GB Black Global Rom Refurbished</name> <stock_quantity>100</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><div>
 <table border="1" class="ck-table-constructor ck-theme-grey ck-table-constructor_type_lite">
 	<tbody>
@@ -160406,7 +160406,7 @@ Google Assistant</h3>
     <param name="Видеопроцессор" unit="">Adreno 509</param>
     <param name="Процессор" unit="">Qualcomm Snapdragon 636</param>
   </offer>
-    <offer id="674828757" available="true">
+    <offer id="674828757" available="false">
     <article>XRN4XB64</article>
     <url>https://jetpad.com.ua/ua/p674828757-smartfon-xiaomi-redmi.html</url>
     <price>3355</price><price_old>4659</price_old>
@@ -160416,7 +160416,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/etYeHsn1apuBaTtMBcYQwTabpMQ2Vqyrt8pDpBpImwU=/1105075927_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/HOAGu0zz7xhHiuH-5nJnx2OxFS1HOiJVIr9lRbW0AcQ=/1105075938_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 4x 4/64GB (Black) Global Rom Refurbished</name><stock_quantity>100</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi Note 4x 4/64GB (Black) Global Rom Refurbished</name><stock_quantity>0</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><div>
 <table border="1" class="ck-table-constructor ck-theme-grey ck-table-constructor_type_lite">
 	<tbody>
@@ -160816,7 +160816,7 @@ Google Assistant</h3>
     <param name="Процессор" unit="">Qualcomm Snapdragon 625 MSM8953</param>
     <param name="Состояние" unit="">Refurbished</param>
   </offer>
-    <offer id="694685769" available="true">
+    <offer id="694685769" available="false">
     <article>XRN4XB32</article>
     <url>https://jetpad.com.ua/ua/p694685769-smartfon-xiaomi-redmi.html</url>
     <price>3209</price><price_old>4659</price_old>
@@ -160826,7 +160826,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/etYeHsn1apuBaTtMBcYQwTabpMQ2Vqyrt8pDpBpImwU=/1105075927_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/HOAGu0zz7xhHiuH-5nJnx2OxFS1HOiJVIr9lRbW0AcQ=/1105075938_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 4x 3/32 GB Black Global Rom Refurbished</name><stock_quantity>100</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi Note 4x 3/32 GB Black Global Rom Refurbished</name><stock_quantity>0</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><div>
 <table border="1" class="ck-table-constructor ck-theme-grey ck-table-constructor_type_lite">
 	<tbody>
@@ -163212,7 +163212,7 @@ Google Assistant</h3>
     <param name="Вес" unit="г">179.5</param>
     <param name="Процессор" unit="">Qualcomm Snapdragon 625 MSM8953</param>
   </offer>
-    <offer id="2212781944" available="true">
+    <offer id="2212781944" available="false">
     <article>XMP64G</article>
     <url>https://jetpad.com.ua/ua/p2212781944-smartfon-xiaomi-play.html</url>
     <price>4069</price><price_old>5659</price_old>
@@ -163224,7 +163224,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/nH10UDsYFRe-Rh5mDPKk7f8MNTKGyaKyYc0oTbtujQ4=/5819764194_smartfon-xiaomi-mi.jpg</picture>
     <picture>https://images.prom.ua/ezdtt_X2CCiR1tYd54z5gvlPJHFS5I0wS_QdLYRmNQc=/5819764195_smartfon-xiaomi-mi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Mi Play 4/64GB Gold Global Rom Refurbished</name><stock_quantity>100</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Xiaomi Mi Play 4/64GB Gold Global Rom Refurbished</name><stock_quantity>0</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><div>
 <table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
@@ -163643,7 +163643,7 @@ Google Assistant</h3>
     <param name="Вес" unit="г">150</param>
     <param name="Состояние" unit="">Refurbіshed, запечатаний, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-    <offer id="2212771509" available="true">
+    <offer id="2212771509" available="false">
     <article>XMP64Bl</article>
     <url>https://jetpad.com.ua/ua/p2212771509-smartfon-xiaomi-play.html</url>
     <price>4069</price><price_old>5659</price_old>
@@ -163653,7 +163653,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/e1vB3U_Wj46kbnY3XOQjQpFxzstN1ZGVTQBH7nitYxY=/5819738405_smartfon-xiaomi-mi.jpg</picture>
     <picture>https://images.prom.ua/_HaUBED0Z_AXVQdNl8roNraaB9-EZh4Dc2oSZnA-2Vo=/5819738406_smartfon-xiaomi-mi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Mi Play 4/64GB Blue Global Rom Refurbished</name><stock_quantity>100</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Xiaomi Mi Play 4/64GB Blue Global Rom Refurbished</name><stock_quantity>0</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><div>
 <table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
@@ -170339,7 +170339,7 @@ Google Assistant</h3>
     <param name="Режим полета">Да</param>
     <param name="Ожидание/удержание вызова">Да</param>
   </offer>
-    <offer id="1908567053" available="true">
+    <offer id="1908567053" available="false">
     <article>S20FE780F6128PU</article>
     <url>https://jetpad.com.ua/ua/p1908567053-smartfon-samsung-galaxy.html</url>
     <price>9949</price><price_old>14659</price_old>
@@ -170351,7 +170351,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/VwNepWStCzsLbw3h7oylB434adZJrjoN-yL1kf94ODc=/4738480088_smartfon-samsung-galaxy.jpg</picture>
     <picture>https://images.prom.ua/6xyq-OCgYZLfL2KmCUt9ridj1jya1K6tYTNbqC1fhkQ=/4738480264_smartfon-samsung-galaxy.jpg</picture>
     <vendor>Samsung</vendor>
-    <name>Смартфон Samsung Galaxy S20 FE SM-G780F 6/128GB Pink</name><stock_quantity>100</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Samsung Galaxy S20 FE SM-G780F 6/128GB Pink</name><stock_quantity>0</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-theme-grey ck-table-constructor_type_lite">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -174978,7 +174978,7 @@ Google Assistant</h3>
     <param name="Режим полета">Да</param>
     <param name="Ожидание/удержание вызова">Да</param>
   </offer>
-   <offer id="1902340841" available="true">
+   <offer id="1902340841" available="false">
     <article>SN20U1S256B</article>
     <url>https://jetpad.com.ua/ua/p1902340841-samsung-galaxy-note.html</url>
     <price>20319</price><price_old>25000</price_old>
@@ -174992,7 +174992,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/BhNzqvHJNQ1vThkg1YfzQlJwq-FF2jQTTdW82cjbsyY=/4715757635_samsung-galaxy-note.jpg</picture>
     <picture>https://images.prom.ua/fmYxhmmjtpE_ZmaRYtrA27SBJTQ2MNCJ9S2gSgQLx5o=/4715757636_samsung-galaxy-note.jpg</picture>
     <vendor>Samsung</vendor>
-    <name>Samsung Galaxy Note 20 Ultra 5G SM-N986U 12/128GB Mystic Black</name><stock_quantity>100</stock_quantity> <state>Refurbished</state>
+    <name>Samsung Galaxy Note 20 Ultra 5G SM-N986U 12/128GB Mystic Black</name><stock_quantity>0</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-theme-grey ck-table-constructor_type_lite">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -187839,7 +187839,7 @@ Google Assistant</h3>
     <param name="Процессор">Qualcomm Snapdragon 730G</param>
   </offer>
   
-    <offer id="1982720854" available="true">
+    <offer id="1982720854" available="false">
     <article>SGS21FE128G</article>
     <url>https://jetpad.com.ua/ua/p1982720854-samsung-galaxy-s21.html</url>
     <price>10889</price><price_old>11659</price_old>
@@ -187851,7 +187851,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/X48Sz00NcfTrmR9a17537JVVdK8AEPzfU_LrZsuR-s4=/4972719465_samsung-galaxy-s21.jpg</picture>
     <picture>https://images.prom.ua/PeL59BwowNZWHWFANuOwEvSYJwNICVKupuS3Ianlpb8=/4972719605_samsung-galaxy-s21.jpg</picture>
     <vendor>Samsung</vendor>
-    <name>Samsung Galaxy S21 FE 5G 6/128GB SM-G990B Graphite Refurbished</name><stock_quantity>100</stock_quantity> <state>Refurbished</state>
+    <name>Samsung Galaxy S21 FE 5G 6/128GB SM-G990B Graphite Refurbished</name><stock_quantity>0</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><div>
 <table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
@@ -200031,10 +200031,10 @@ Google Assistant</h3>
     <param name="Вес" unit="г">163</param>
     <param name="Ширина" unit="мм">69.1</param>
   </offer>
-    <offer id="1883068632" available="false">
+    <offer id="1883068632" available="true">
     <article>XRN12P5G128W</article>
     <url>https://jetpad.com.ua/ua/p1883068632-smartfon-xiaomi-redmi.html</url>
-    <price>8249</price><price_old>9915</price_old>
+    <price>7919</price><price_old>9915</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/QLvwsysmjOhg9Yc3ctt_CSPDSlKWrnClELQ08r_H5pg=/4648930854_smartfon-xiaomi-redmi.jpg</picture>
@@ -200045,7 +200045,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/CSbE8Y2f81UrTroe-C-oTUIT1Zguw5E_qJXf3I1W7I4=/4648932048_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/6vLnE9a3Nk6P9lUsRvBMluE402XAa5GBeFvvDX9jIg8=/4648932383_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 12 Pro 5G 6/128GB White Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi Note 12 Pro 5G 6/128GB White Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-theme-grey ck-table-constructor_type_lite">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -202108,7 +202108,7 @@ Google Assistant</h3>
     <param name="Количество мегапикселей камеры на лицевой панели" unit="Мп">8</param>
     <param name="Стан" unit="">Refurbished, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-   <offer id="1883063309-1" available="false">
+   <offer id="1883063309-1" available="true">
     <article>XRN12P5G128B</article>
     <url>https://jetpad.com.ua/ua/p1883063309-smartfon-xiaomi-redmi.html</url>
     <price>7919</price><price_old>8325</price_old>
@@ -202122,7 +202122,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/bjbrTuvjqH8TcEY7wHDu08MOzYvvBS1v70qxRzRLRhM=/4648874645_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/dPmRTm6Zbi6gsxS65qcjXxTqCV5xtqvqIFOQSLCnuK0=/4648875244_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 12 Pro 5G 6/128GB Black Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi Note 12 Pro 5G 6/128GB Black Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-theme-grey ck-table-constructor_type_lite">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -203504,10 +203504,10 @@ Google Assistant</h3>
     <param name="Камера на лицевой панели">Да</param>
     <param name="Количество мегапикселей камеры на лицевой панели" unit="Мп">8</param>
   </offer>
-    <offer id="1839014249" available="false">
+    <offer id="1839014249" available="true">
     <article>GP8128SB</article>
     <url>https://jetpad.com.ua/ua/p1839014249-smartfon-google-pixel.html</url>
-    <price>12409</price> <price_old>17379</price_old>
+    <price>11869</price> <price_old>12379</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/z-RVP6LgXDozKHC-i6qJeTnMRkXOAQ1MlBIQHyQF0-E=/4499546755_smartfon-google-pixel.jpg</picture>
@@ -203518,7 +203518,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/tmIModNHJVkoThmZxVvIFcuixI4GO5fEErOAN-ACn1A=/4499546415_smartfon-google-pixel.jpg</picture>
     <picture>https://images.prom.ua/30uNjLBtVWj09k53oYHQ9iHeSNKJPys_QEoW4yARjDE=/4499546332_smartfon-google-pixel.jpg</picture>
     <vendor>Google</vendor>
-    <name>Смартфон Google Pixel 6 8/128GB Sorta Seafoam</name> <stock_quantity>0</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Google Pixel 6 8/128GB Sorta Seafoam</name> <stock_quantity>100</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-theme-grey ck-table-constructor_type_lite">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -204260,7 +204260,7 @@ Google Assistant</h3>
     <param name="Камера на лицевой панели">Да</param>
     <param name="Количество мегапикселей камеры на лицевой панели" unit="Мп">8</param>
   </offer>
-    <offer id="958080533" available="true">
+    <offer id="958080533" available="false">
     <article>XRN7P6128B</article>
     <url>https://jetpad.com.ua/ua/p958080533-smartfon-xiaomi-redmi.html</url>
     <price>3885</price> <price_old>4565</price_old>
@@ -204270,7 +204270,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/H4A46Zq6_g3yxeuLg5drHuhAZmlTeVKGTmuDUFbBHaY=/1754123163_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/MUyYFsZ5yjbNKLI1Unx5_3xYju6x7mPEfF10MNwS2ew=/1754123734_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 7 Pro 6/128GB Black Global Rom Refurbished</name><stock_quantity>100</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi Note 7 Pro 6/128GB Black Global Rom Refurbished</name><stock_quantity>0</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><div>
 <div>
 <table border="1" class="ck-table-constructor ck-theme-grey ck-table-constructor_type_lite">
@@ -208200,7 +208200,7 @@ Google Assistant</h3>
     <param name="Максимальное разрешение видео" unit="">2160х1440</param>
     <param name="Состояние" unit="">Refurbished</param>
   </offer>
-  <offer id="1798824825" available="true">
+  <offer id="1798824825" available="false">
     <article>SG981UW</article>
     <url>https://jetpad.com.ua/p1798824825-smartfon-samsung-galaxy.html</url>
     <price>11439</price> <price_old>12589</price_old>
@@ -208212,7 +208212,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/wBc3DTNX-6bxHvnPN0kVvtC1SivM9H-tfc0A_q0bZVw=/4364588424_smartfon-samsung-galaxy.jpg</picture>
     <picture>https://images.prom.ua/lMKHTpmLngRr2i-0fKQmZBrEx0Kuox6yeq2Eqr8uhOg=/4364588426_smartfon-samsung-galaxy.jpg</picture>
     <vendor>Samsung</vendor>
-    <name>Смартфон Samsung Galaxy S20 5G SM-G981U White Refurbished</name> <stock_quantity>100</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Samsung Galaxy S20 5G SM-G981U White Refurbished</name> <stock_quantity>0</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-theme-grey ck-table-constructor_type_lite">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -212897,7 +212897,7 @@ Google Assistant</h3>
     <param name="Толщина" unit="мм">8.77</param>
     <param name="Вес" unit="г">192</param>
   </offer>
-  <offer id="1830099460" available="true">
+  <offer id="1830099460" available="false">
     <article>SG988UBB</article>
     <url>https://jetpad.com.ua/p1830099460-smartfon-samsung-galaxy.html</url>
     <price>16595</price> <price_old>19199</price_old>
@@ -212908,7 +212908,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/to4Z7O1idGjBhq028nf1cE_RanoSlU3q2so5PWc-XAQ=/4468653926_smartfon-samsung-galaxy.jpg</picture>
     <picture>https://images.prom.ua/GIYioCZqZDDmsQzgDfZl0Xh84Xo0ofOGfU9gaaCCsT8=/4468653927_smartfon-samsung-galaxy.jpg</picture>
     <vendor>Samsung</vendor>
-    <name>Смартфон Samsung Galaxy S20 Ultra SM-G988U 12/128GB Black Refurbished</name> <stock_quantity>100</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Samsung Galaxy S20 Ultra SM-G988U 12/128GB Black Refurbished</name> <stock_quantity>0</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-theme-grey ck-table-constructor_type_lite">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -213262,7 +213262,7 @@ Google Assistant</h3>
     <param name="Толщина" unit="мм">8.8</param>
     <param name="Вес" unit="г">220</param>
   </offer>
-    <offer id="1915029032" available="true">
+    <offer id="1915029032" available="false">
     <article>SMG986UG</article>
     <url>https://jetpad.com.ua/ua/p1915029032-smartfon-samsung-galaxy.html</url>
     <price>12979</price><price_old>14200</price_old>
@@ -213274,7 +213274,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/VcHLAUY6V3ANfrBwdYxLVPg8_fABhWFxb8Hp9PfTX9I=/4760973227_smartfon-samsung-galaxy.jpg</picture>
     <picture>https://images.prom.ua/IlNXxTCC3zZCir17A63IQtjr5ct3vB6LRDZ1ss4SNpI=/4760972552_smartfon-samsung-galaxy.jpg</picture>
     <vendor>Samsung</vendor>
-    <name>Смартфон Samsung Galaxy S20+ 5G SM-G986U 12/128GB Gray</name><stock_quantity>100</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Samsung Galaxy S20+ 5G SM-G986U 12/128GB Gray</name><stock_quantity>0</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-theme-grey ck-table-constructor_type_lite">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -216038,7 +216038,7 @@ Google Assistant</h3>
     <param name="Толщина" unit="мм">7.9</param>
     <param name="Вес" unit="г">168</param>
   </offer>
-    <offer id="1894630982" available="true">
+    <offer id="1894630982" available="false">
     <article>SGN10256AG</article>
     <url>https://jetpad.com.ua/ua/p1894630982-smartfon-samsung-galaxy.html</url>
     <price>11969</price> <price_old>14809</price_old>
@@ -216048,7 +216048,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/QUCHF-Mq_GODjcXqVuGw-2l_2Ex9iUTneRYtdkOn6Zw=/4691232447_smartfon-samsung-galaxy.jpg</picture>
     <picture>https://images.prom.ua/jRrqKlh-tS9zGD4qOVp7BsrHZPijW3C6SeFcpkYPOSs=/4691233943_smartfon-samsung-galaxy.jpg</picture>
     <vendor>Samsung</vendor>
-    <name>Смартфон Samsung Galaxy Note 10 SM-N970F 8/256GB Aura Glow (SM-N970FZSD)</name><stock_quantity>100</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Samsung Galaxy Note 10 SM-N970F 8/256GB Aura Glow (SM-N970FZSD)</name><stock_quantity>0</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><div>
 <table border="1" class="ck-table-constructor ck-theme-grey ck-table-constructor_type_lite">
 	<tbody>
@@ -218651,10 +218651,10 @@ Google Assistant</h3>
     <param name="Вес" unit="г">193</param>
     <param name="Refurbished" unit="">Refurbіshed, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-    <offer id="2694519344" available="false">
+    <offer id="2694519344" available="true">
     <article>2694519344</article>
     <url>https://jetpad.com.ua/ua/p2694519344-smartfon-xiaomi-redmi.html</url>
-    <price>8745</price><price_old>9315</price_old>
+    <price>8799</price><price_old>9315</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/VyxsrTBmbBBQI8bdYC_K1-_35pDjfyZQA0nVJnxLcCE=/4648873346_smartfon-xiaomi-redmi.jpg</picture>
@@ -218665,7 +218665,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/bjbrTuvjqH8TcEY7wHDu08MOzYvvBS1v70qxRzRLRhM=/4648874645_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/dPmRTm6Zbi6gsxS65qcjXxTqCV5xtqvqIFOQSLCnuK0=/4648875244_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 12 Pro 5G 12/256GB Black Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi Note 12 Pro 5G 12/256GB Black Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -219020,10 +219020,10 @@ Google Assistant</h3>
     <param name="Вспышка фронтальной камеры">Нет</param>
     <param name="Стан" unit="">Refurbished, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-    <offer id="2697537780" available="false">
+    <offer id="2697537780" available="true">
     <article>2697537780</article>
     <url>https://jetpad.com.ua/ua/p2697537780-smartfon-xiaomi-redmi.html</url>
-    <price>8745</price><price_old>9315</price_old>
+    <price>8799</price><price_old>9315</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/cwjDKMdw1NDQ7PRtk_Dto82uuRGfV1_aAS-qutltbHM=/4630901261_smartfon-xiaomi-redmi.jpg</picture>
@@ -219034,7 +219034,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/i_MKNEr7chb4Pl8AoJvgHXRBL3tdai2KYUginnpMJBA=/4630903291_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/pAulwuoFFXL9l8A5fVEd2robQuy7fhRwXqO564u8cmM=/4630903846_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 12 Pro 5G 12/256GB White Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi Note 12 Pro 5G 12/256GB White Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -219389,10 +219389,10 @@ Google Assistant</h3>
     <param name="Вспышка фронтальной камеры">Нет</param>
     <param name="Стан" unit="">Refurbished, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-    <offer id="2699747681" available="false">
+    <offer id="2699747681" available="true">
     <article>2699747681</article>
     <url>https://jetpad.com.ua/ua/p2699747681-smartfon-xiaomi-redmi.html</url>
-    <price>8745</price><price_old>9315</price_old>
+    <price>8799</price><price_old>9315</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/8PR1f5gvPFWmzb7eUvQ8Ko4syiP2bY6mJZadhZ8YfN0=/4648920683_smartfon-xiaomi-redmi.jpg</picture>
@@ -219403,7 +219403,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/pzOcOkAYics6EBOVOK9kAW0zrcCWcnPie2A8bzRs6Lo=/4648921956_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/zz8tolXVbqgkIIFG_lNhrG2CXaqdu0B5EoyrRkqCoIs=/4648922023_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 12 Pro 5G 12/256GB Blue Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi Note 12 Pro 5G 12/256GB Blue Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -220513,7 +220513,7 @@ Google Assistant</h3>
     <param name="Двойная основная фотокамера">Нет</param>
     <param name="Стан" unit="">Refurbished, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-    <offer id="2606140639" available="true">
+    <offer id="2606140639" available="false">
     <article>2606140639</article>
     <url>https://jetpad.com.ua/ua/p2606140639-smartfon-google-pixel.html</url>
     <price>22565</price><price_old>23315</price_old>
@@ -220523,7 +220523,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/rw_iF9Kb82lRW8WwO8J1ejTRyyJD0Q7RnBdvhFiOHE8=/6645558457_smartfon-google-pixel.jpg</picture>
     <picture>https://images.prom.ua/dwZHlzCvwO6H69zmmwvv55-dMQfU8BoUTimYwP2QpZA=/6645558663_smartfon-google-pixel.jpg</picture>
     <vendor>Google</vendor>
-    <name>Смартфон Google Pixel 7 Pro 12/256GB Snow Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Google Pixel 7 Pro 12/256GB Snow Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -223487,10 +223487,10 @@ Google Assistant</h3>
     <param name="Толщина" unit="мм">8.77</param>
     <param name="Вес" unit="г">192</param>
   </offer>
-  <offer id="1845611356" available="false">
+  <offer id="1845611356" available="true">
     <article>R12C128MG</article>
     <url>https://jetpad.com.ua/p1845611356-smartfon-xiaomi-redmi.html</url>
-    <price>4619</price> <price_old>5099</price_old>
+    <price>4785</price> <price_old>5099</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/QHDiGpIvQ-uaFWoqM0inMUwGU1FhtdlqUnLTFEUVlb0=/4517302005_smartfon-xiaomi-redmi.jpg</picture>
@@ -223499,7 +223499,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/wpO5BmWYF9D17MMd-pfi7o_bfI3nTZ2rHCBeW0_xSdc=/4517302008_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/oQgZlQK5ZhSdRXvDs7GsxedM-yziHbTRbhlxhKwaFPA=/4517302011_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi 12C 4/128GB Mint Green Global Rom Refurbished</name> <stock_quantity>0</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi 12C 4/128GB Mint Green Global Rom Refurbished</name> <stock_quantity>100</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-theme-grey ck-table-constructor_type_lite">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -225419,7 +225419,7 @@ Google Assistant</h3>
     <param name="Гарантийный срок" unit="мес">12</param>
     <param name="Состояние" unit="">Refurbіshed, запечатаний, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-  <offer id="1661249061" available="false">
+  <offer id="1661249061" available="true">
     <article>XR8A64B</article>
     <url>https://jetpad.com.ua/p1661249061-smartfon-xiaomi-redmi.html</url>
     <price>3235</price> <price_old>4999</price_old>
@@ -225432,7 +225432,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/6E-38O-XRjD23TVxujfZpnfCyKCd1XxOyxGEJdf8pQY=/3926638091_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/tACKRNL6u7ic7OE7-9e_lZiRmZUyuckayj4loBkJc5k=/3926638040_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi 8A 4/64GB Black Refurbished</name> <stock_quantity>0</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi 8A 4/64GB Black Refurbished</name> <stock_quantity>100</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><div>
 <table border="1" class="ck-table-constructor ck-theme-grey ck-table-constructor_type_lite">
 	<tbody>
@@ -229620,7 +229620,7 @@ Google Assistant</h3>
     <param name="Вспышка фронтальной камеры">Нет</param>
     <param name="Состояние" unit="">Refurbіshed, запечатаний, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-  <offer id="1426561827" available="true">
+  <offer id="1426561827" available="false">
     <article>XMi8L464R</article>
     <url>https://jetpad.com.ua/p1426561827-smartfon-xiaomi-lite.html</url>
     <price>4869</price> <price_old>5695</price_old>
@@ -229630,7 +229630,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/6IOy4l4ri9GZxYTK3r0__JfN6rd3z-f9LFaY-u9425o=/3156988344_smartfon-xiaomi-mi.jpg</picture>
     <picture>https://images.prom.ua/DbWGSjGuZWqWGs7bmAyvQv-PxJmT6IOI4uFq1-oGfXY=/3156988343_smartfon-xiaomi-mi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Mi 8 Lite 4/64gb Red Global Rom Refurbished</name> <stock_quantity>100</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Xiaomi Mi 8 Lite 4/64gb Red Global Rom Refurbished</name> <stock_quantity>0</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><p><strong>Гарантия 12 мес.</strong></p>
 
 <p> </p>
@@ -229981,7 +229981,7 @@ Google Assistant</h3>
     <param name="Вес" unit="г">169</param>
     <param name="Состояние" unit="">Refurbіshed, запечатаний, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-  <offer id="975734160" available="true">
+  <offer id="975734160" available="false">
     <article>XM8L464ABL</article>
     <url>https://jetpad.com.ua/p975734160-smartfon-xiaomi-lite.html</url>
     <price>4869</price> <price_old>5695</price_old>
@@ -229991,7 +229991,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/Wfvrw4cLeKegvIA9k0jw3vQbRp1U26xuLrXMY4FKUKA=/1800885585_smartfon-xiaomi-mi.jpg</picture>
     <picture>https://images.prom.ua/dGFhvNqkj_hW3-f1obsqQj_8gvZn9kIgze2GKbCYLHU=/1800885584_smartfon-xiaomi-mi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Mi 8 Lite 4/64GB Aurora Blue Refurbished</name> <stock_quantity>100</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Xiaomi Mi 8 Lite 4/64GB Aurora Blue Refurbished</name> <stock_quantity>0</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><p><strong><span>Гарантия 12 мес.</span></strong></p>
 
 <table>
@@ -230602,7 +230602,7 @@ Google Assistant</h3>
     <param name="Максимальное разрешение видео" unit="">2160х1440</param>
     <param name="Состояние" unit="">Refurbished</param>
   </offer>
-  <offer id="1661254694" available="false">
+  <offer id="1661254694" available="true">
     <article>XR8A64Bl</article>
     <url>https://jetpad.com.ua/p1661254694-smartfon-xiaomi-redmi.html</url>
     <price>3235</price> <price_old>3885</price_old>
@@ -230614,7 +230614,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/ouJeP4rCkPJwxZctI705B-ZKLk-NQj4X-cfGCQ5-eoc=/3926660344_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/ZnnG9Wa02fc_7Un71F9ixzbePoAIN7_btWtEJsUxhsM=/3926660339_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi 8A 4/64GB Blue Refurbished</name> <stock_quantity>0</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi 8A 4/64GB Blue Refurbished</name> <stock_quantity>100</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><div>
 <table border="1" class="ck-table-constructor ck-theme-grey ck-table-constructor_type_lite">
 	<tbody>
@@ -231255,7 +231255,7 @@ Google Assistant</h3>
     <param name="Количество поддерживаемых SIM-карт" unit="">2 (или 1 SIM + карта памяти</param>
     <param name="Состояние" unit="">Refurbіshed, запечатаний, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-  <offer id="1861579364" available="false">
+  <offer id="1861579364" available="true">
     <article>XRN96128B</article>
     <url>https://jetpad.com.ua/p1861579364-smartfon-xiaomi-redmi.html</url>
     <price>5445</price> <price_old>6259</price_old>
@@ -231267,7 +231267,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/ngplovc-gO8pEmm9-b-87u6e6OPJ6FWv7gYBSqzQiy4=/4572346232_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/PMUQgqNpUBEI0aFTD9vw2mqBb-9vts2NYehkxhdwtmo=/4572346233_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 9 6/128GB Black Global Rom Refurbished</name> <stock_quantity>0</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi Note 9 6/128GB Black Global Rom Refurbished</name> <stock_quantity>100</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><div>
 <table border="1" class="ck-table-constructor ck-theme-grey ck-table-constructor_type_lite">
 	<tbody>
@@ -232664,7 +232664,7 @@ Google Assistant</h3>
   <offer id="1818043582" available="true">
     <article>XRN94128BU</article>
     <url>https://jetpad.com.ua/p1818043582-smartfon-xiaomi-redmi.html</url>
-    <price>5225</price> <price_old>6105</price_old>
+    <price>5335</price> <price_old>6105</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/2IiRMe4kYGoVpZIDH73lU_4_XHAbUEpstnxSIRXFGqA=/4428494759_smartfon-xiaomi-redmi.jpg</picture>
@@ -233010,7 +233010,7 @@ Google Assistant</h3>
   <offer id="1806542044" available="true">
     <article>XRN94128G</article>
     <url>https://jetpad.com.ua/p1806542044-smartfon-xiaomi-redmi.html</url>
-    <price>5225</price> <price_old>6105</price_old>
+    <price>5335</price> <price_old>6105</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/bRtIkY1gn2c83nlKTCICUanPowfmFKitaoeWzR1CyIg=/4388484446_smartfon-xiaomi-redmi.jpg</picture>
@@ -233352,10 +233352,10 @@ Google Assistant</h3>
     <param name="Тип SIM-карты">Nano-SIM</param>
     <param name="Стан" unit="">Refurbіshed, запечатаний, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-  <offer id="1806447585" available="false">
+  <offer id="1806447585" available="true">
     <article>XRN94128B</article>
     <url>https://jetpad.com.ua/p1806447585-smartfon-xiaomi-redmi.html</url>
-    <price>5389</price> <price_old>6105</price_old>
+    <price>5335</price> <price_old>6105</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/bJwiK-qVWLlvNEcht_DBik3Fmx8gjTflh9pbDuonoGs=/4388231252_smartfon-xiaomi-redmi.jpg</picture>
@@ -233366,7 +233366,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/jSHALFm7I51c3jxYm4f7GM_uV0e88QPHcJgtA51TIbs=/4388231258_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/IE07wO09v303_GIpwbculNUxqvNUfyygN0hIz4N0y2U=/4388231259_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 9 4/128GB Black Global Rom Refurbished</name> <stock_quantity>0</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi Note 9 4/128GB Black Global Rom Refurbished</name> <stock_quantity>100</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><div>
 <table border="1" class="ck-table-constructor ck-theme-grey ck-table-constructor_type_lite">
 	<tbody>
@@ -234320,10 +234320,10 @@ Google Assistant</h3>
     <param name="Толщина" unit="мм">8.8</param>
     <param name="Вес" unit="г">190</param>
   </offer>
-  <offer id="1643215310" available="false">
+  <offer id="1643215310" available="true">
     <article>X10AS64</article>
     <url>https://jetpad.com.ua/p1643215310-smartfon-xiaomi-redmi.html</url>
-    <price>3339</price> <price_old>4059</price_old>
+    <price>3839</price> <price_old>4059</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/vyZ2mHRnm9cYINB0AVa5wAkkw3n4m1tgLyFukh5QdXI=/3866643544_smartfon-xiaomi-redmi.jpg</picture>
@@ -234331,7 +234331,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/afnjhXV9s33mbnUmbED5XpWQP6UtH8Clax-2L7OEyec=/3866643483_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/uoGDa2ihoWQgzmIYjcm4mh7TRNzB86kylUV994rDadc=/3866643441_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi 10A 4/64GB Silver Global Rom Refurbished</name> <stock_quantity>0</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi 10A 4/64GB Silver Global Rom Refurbished</name> <stock_quantity>100</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><div>
 <table border="1" class="ck-table-constructor ck-theme-grey ck-table-constructor_type_lite">
 	<tbody>
@@ -234894,7 +234894,7 @@ Google Assistant</h3>
     <param name="Слоты карты памяти">microSD</param>
     <param name="Видеопроцессор">Mali-T628</param>
   </offer>
-  <offer id="1661227696" available="true">
+  <offer id="1661227696" available="false">
     <article>XMP464B</article>
     <url>https://jetpad.com.ua/p1661227696-smartfon-xiaomi-play.html</url>
     <price>4179</price> <price_old>5888</price_old>
@@ -234905,7 +234905,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/m5BKTcFfagJa1PVbwZpsqJRbaZ5yGi0P7uPirBueDaI=/3926563106_smartfon-xiaomi-mi.jpg</picture>
     <picture>https://images.prom.ua/CeYYO0yFyycrXf9aqIDU4Uh4JyKusfgyEJyCLu6886s=/3926563108_smartfon-xiaomi-mi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Mi Play 6/128GB Black Global Rom Refurbished</name> <stock_quantity>100</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Xiaomi Mi Play 6/128GB Black Global Rom Refurbished</name> <stock_quantity>0</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><div>
 <table border="1" class="ck-table-constructor ck-theme-grey ck-table-constructor_type_lite">
 	<tbody>
@@ -235278,7 +235278,7 @@ Google Assistant</h3>
     <param name="Процессор" unit="">MediaTek MT6765</param>
     <param name="Состояние" unit="">Refurbіshed, запечатаний, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-  <offer id="1684648557" available="true">
+  <offer id="1684648557" available="false">
     <article>XMP464Bl</article>
     <url>https://jetpad.com.ua/p1684648557-smartfon-xiaomi-play.html</url>
     <price>4179</price> <price_old>5888</price_old>
@@ -235288,7 +235288,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/ySHeHGBhuPF8wNsMZcWvwJbquIcjeiydxDpbfQ1obXE=/4003139998_smartfon-xiaomi-mi.jpg</picture>
     <picture>https://images.prom.ua/Dv-Eqo1XabF_GTzZbuo6C9c2rVvT1QG_uQkqHctn7mw=/4003140010_smartfon-xiaomi-mi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Mi Play 6/128GB Blue Global Rom Refurbished</name> <stock_quantity>100</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Xiaomi Mi Play 6/128GB Blue Global Rom Refurbished</name> <stock_quantity>0</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><div>
 <table border="1" class="ck-table-constructor ck-theme-grey ck-table-constructor_type_lite">
 	<tbody>
@@ -235999,7 +235999,7 @@ Google Assistant</h3>
     <param name="Процессор" unit="">Qualcomm Snapdragon 625 MSM8953</param>
     <param name="Состояние" unit="">Refurbished</param>
   </offer>
-  <offer id="950868767" available="true">
+  <offer id="950868767" available="false">
     <article>XMP464B</article>
     <url>https://jetpad.com.ua/p950868767-smartfon-xiaomi-play.html</url>
     <price>4069</price> <price_old>5888</price_old>
@@ -236010,7 +236010,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/PdN1HBwCcfr8WntB3Mbf57rYrVuCxxh0wxaGHqpolEo=/3280685761_smartfon-xiaomi-mi.jpg</picture>
     <picture>https://images.prom.ua/LAJjQjUoWqsSEhjF67yjgRKnq9WC43dYEBPla6Q4awY=/3280685763_smartfon-xiaomi-mi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Mi Play 4/64GB Black Global Rom Refurbished</name> <stock_quantity>100</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Xiaomi Mi Play 4/64GB Black Global Rom Refurbished</name> <stock_quantity>0</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><p><span><strong>Гарантия 12 мес.</strong></span></p>
 
 <table>
@@ -236733,7 +236733,7 @@ Google Assistant</h3>
     <param name="Видеопроцессор" unit="">Qualcomm Adreno 630</param>
     <param name="Процессор" unit="">Qualcomm Snapdragon 845</param>
   </offer>
-  <offer id="1008085441" available="true">
+  <offer id="1008085441" available="false">
     <article>SGS10SM8128PB</article>
     <url>https://jetpad.com.ua/p1008085441-smartfon-samsung-galaxy.html</url>
     <price>11235</price> <price_old>15069</price_old>
@@ -236746,7 +236746,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/-y7j4gZN_z2YQu_oXzejAM6huoW5QKfbJChqN-qkthE=/3532615875_smartfon-samsung-galaxy.jpg</picture>
     <picture>https://images.prom.ua/A5kTGfacskIE6FIzZVJbh3Vj43XuXy6_bZ0_KK7mJmg=/3532615873_smartfon-samsung-galaxy.jpg</picture>
     <vendor>Samsung</vendor>
-    <name>Смартфон Samsung Galaxy S10+ SM-G975 DS 128GB Prism Blue Refurbished</name> <stock_quantity>100</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Samsung Galaxy S10+ SM-G975 DS 128GB Prism Blue Refurbished</name> <stock_quantity>0</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><div>
 <table border="1" class="ck-table-constructor ck-theme-grey ck-table-constructor_type_lite">
 	<tbody>
@@ -245139,10 +245139,10 @@ Google Assistant</h3>
     <param name="Процессор" unit="">Qualcomm Snapdragon 425</param>
     <param name="Стан" unit="">Refurbіshed, запечатаний, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-    <offer id="2284002073" available="false">
+    <offer id="2284002073" available="true">
     <article>GP7128S</article>
     <url>https://jetpad.com.ua/ua/p2284002073-smartfon-google-pixel.html</url>
-    <price>14159</price><price_old>15670</price_old>
+    <price>12949</price><price_old>13670</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/tu9Rt44dz2lfjP0FU9WmjjwyBvslIzstqCbQRysjd_Y=/6082685383_smartfon-google-pixel.jpg</picture>
@@ -245153,7 +245153,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/INQgREraNLy0nxkFjPc-93U5f-XZsGOyBxuSQkcWQNg=/6082690422_smartfon-google-pixel.jpg</picture>
     <picture>https://images.prom.ua/4r_Tdgy-DhlYVNTmHxP_rgGFooMBf1QCgfMnPZ56PzQ=/6082690804_smartfon-google-pixel.jpg</picture>
     <vendor>Google Pixel</vendor>
-    <name>Смартфон Google Pixel 7 8/128GB Snow</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Google Pixel 7 8/128GB Snow</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -245603,10 +245603,10 @@ Google Assistant</h3>
     <param name="Стереодинамики">Да</param>
     <param name="Refurbished" unit="">не запечатаний, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-    <offer id="2284000991" available="false">
+    <offer id="2284000991" available="true">
     <article>GP7128O</article>
     <url>https://jetpad.com.ua/ua/p2284000991-smartfon-google-pixel.html</url>
-    <price>13375</price><price_old>15015</price_old>
+    <price>12949</price><price_old>14015</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/bIn0mVDuxgWmn_iYe72uSX_dExoGs9n5qKgPUTi6JZs=/6082625353_smartfon-google-pixel.jpg</picture>
@@ -245616,7 +245616,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/Z7bFKDQGbTtxeCAR1qA3f6JPR3rOQZefd-QdzJR9fUM=/6082627136_smartfon-google-pixel.jpg</picture>
     <picture>https://images.prom.ua/EGle1PMoE-LRr_lTwt8FNVKzfjKJdzjm9lW_YP35zZc=/6082627554_smartfon-google-pixel.jpg</picture>
     <vendor>Google Pixel</vendor>
-    <name>Смартфон Google Pixel 7 8/128GB Obsidian</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Google Pixel 7 8/128GB Obsidian</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -248230,7 +248230,7 @@ Google Assistant</h3>
     <param name="Количество мегапикселей камеры на лицевой панели" unit="Мп">40</param>
     <param name="Стереодинамики">Да</param>
   </offer>
-   <offer id="2011488841" available="true">
+   <offer id="2011488841" available="false">
     <article>SGS21U998B128S</article>
     <url>https://jetpad.com.ua/p2011488841-samsung-galaxy-s21.html</url>
     <price>20665</price><price_old>21659</price_old>
@@ -248242,7 +248242,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/swa_OYi7mNtWBljEOlClzRzoVIb0sWr7VoAr12dnbMg=/5076494598_samsung-galaxy-s21.jpg</picture>
     <picture>https://images.prom.ua/vCrMXNTEX4YYfBXkAKgtqxXZgjxaH0XFfaC4c3s3Jj8=/5076494629_samsung-galaxy-s21.jpg</picture>
     <vendor>Samsung</vendor>
-    <name>Samsung Galaxy S21 Ultra 5G SM-G998B 12/128GB Phantom Silver Refurbished</name><stock_quantity>100</stock_quantity> <state>Refurbished</state>
+    <name>Samsung Galaxy S21 Ultra 5G SM-G998B 12/128GB Phantom Silver Refurbished</name><stock_quantity>0</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -248999,7 +248999,7 @@ Google Assistant</h3>
     <param name="Количество мегапикселей камеры на лицевой панели" unit="Мп">40</param>
     <param name="Стереодинамики">Да</param>
   </offer>
-    <offer id="2111562578" available="true">
+    <offer id="2111562578" available="false">
     <article>SMG986UBL</article>
     <url>https://jetpad.com.ua/p2111562578-smartfon-samsung-galaxy.html</url>
     <price>12979</price><price_old>14659</price_old>
@@ -249012,7 +249012,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/NxYuYXXRLhssWFHBkkID7pEvdlMspgAMxrZDXqwV7_k=/5454414190_smartfon-samsung-galaxy.jpg</picture>
     <picture>https://images.prom.ua/uLpWIT64xC6IFqH8qayxWXo1rzarSMK5ya61qQ-cijs=/5454414376_smartfon-samsung-galaxy.jpg</picture>
     <vendor>Samsung</vendor>
-    <name>Смартфон Samsung Galaxy S20+ 5G SM-G986U 12/128GB Blue Refurbished</name><stock_quantity>100</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Samsung Galaxy S20+ 5G SM-G986U 12/128GB Blue Refurbished</name><stock_quantity>0</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -249375,7 +249375,7 @@ Google Assistant</h3>
     <param name="Толщина" unit="мм">7.8</param>
     <param name="Вес" unit="г">186</param>
   </offer>
-   <offer id="2111511317" available="true">
+   <offer id="2111511317" available="false">
     <article>SG981UBLU</article>
     <url>https://jetpad.com.ua/p2111511317-smartfon-samsung-galaxy.html</url>
     <price>11439</price><price_old>12659</price_old>
@@ -249388,7 +249388,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/_gT7FF8NNUfTxmx8gpPqSS3DKw7pEpbTVGP4oJ39K-s=/5454200592_smartfon-samsung-galaxy.jpg</picture>
     <picture>https://images.prom.ua/8hFrEgDttqSUn1wN37eSROt1wC6taZE3r3LnmdFUgHk=/5454200896_smartfon-samsung-galaxy.jpg</picture>
     <vendor>Samsung</vendor>
-    <name>Смартфон Samsung Galaxy S20 5G SM-G981U Blue Refurbished</name><stock_quantity>100</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Samsung Galaxy S20 5G SM-G981U Blue Refurbished</name><stock_quantity>0</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -250039,7 +250039,7 @@ Google Assistant</h3>
     <param name="Вес" unit="г">190</param>
     <param name="Разрешение экрана" unit="">2400 x 1080</param>
   </offer>
-    <offer id="2026381580" available="false">
+    <offer id="2026381580" available="true">
     <article>S20FE780F6128O</article>
     <url>https://jetpad.com.ua/p2026381580-smartfon-samsung-galaxy.html</url>
     <price>9819</price><price_old>14659</price_old>
@@ -250050,7 +250050,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/zBAjbN5MEjoIpAGwAQ5xXIDrpWc0zPHL-VZ-0JkBS8g=/5131936658_smartfon-samsung-galaxy.jpg</picture>
     <picture>https://images.prom.ua/iv1Y8NdxSrEq6Cs8uYF-k1-abv433JMdMuHCWtO0WiI=/5131936660_smartfon-samsung-galaxy.jpg</picture>
     <vendor>Samsung</vendor>
-    <name>Смартфон Samsung Galaxy S20 FE SM-G780F 6/128GB Orange Refurbished</name><stock_quantity>0</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Samsung Galaxy S20 FE SM-G780F 6/128GB Orange Refurbished</name><stock_quantity>100</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -250745,7 +250745,7 @@ Google Assistant</h3>
     <param name="Вес" unit="г">190</param>
     <param name="Разрешение экрана" unit="">2400 x 1080</param>
   </offer>
-   <offer id="2026390931" available="true">
+   <offer id="2026390931" available="false">
     <article>S20FE780F128P</article>
     <url>https://jetpad.com.ua/p2026390931-smartfon-samsung-galaxy.html</url>
     <price>9949</price><price_old>14659</price_old>
@@ -250757,7 +250757,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/WPV3i3YMFjFrGkIserq6X78-uAGxOcR_jpVDkMZQEgk=/5131976654_smartfon-samsung-galaxy.jpg</picture>
     <picture>https://images.prom.ua/NLFbf2zOoh7ni_RFUGDpNSQm4tGpVYuzXzQesXIS8U4=/5131976655_smartfon-samsung-galaxy.jpg</picture>
     <vendor>Samsung</vendor>
-    <name>Смартфон Samsung Galaxy S20 FE SM-G780F 6/128GB Pink Refurbished</name><stock_quantity>100</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Samsung Galaxy S20 FE SM-G780F 6/128GB Pink Refurbished</name><stock_quantity>0</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
@@ -251997,7 +251997,7 @@ Google Assistant</h3>
     <param name="Количество мегапикселей камеры на лицевой панели" unit="Мп">10</param>
     <param name="Стереодинамики">Да</param>
   </offer>
-   <offer id="2111298048" available="true">
+   <offer id="2111298048" available="false">
     <article>SGN10256UW</article>
     <url>https://jetpad.com.ua/p2111298048-smartfon-samsung-galaxy.html</url>
     <price>11129</price><price_old>12659</price_old>
@@ -252007,7 +252007,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/6058468082_w640_h640_6058468082.jpg</picture>
     <picture>https://images.prom.ua/6058467385_w640_h640_6058467385.jpg</picture>
     <vendor>Samsung</vendor>
-    <name>Смартфон Samsung Galaxy Note 10 SM-N970U 8/256GB White Refurbished</name><stock_quantity>100</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Samsung Galaxy Note 10 SM-N970U 8/256GB White Refurbished</name><stock_quantity>0</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		<tr class="ck-table-constructor__row">
