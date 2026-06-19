@@ -818,7 +818,7 @@
     <param name="Спалах фронтальної камери">Ні</param>
     <param name="Стан" unit="">Refurbished, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-    <offer id="2796229731" available="true">
+    <offer id="2796229731" available="false">
     <article>2796229731</article>
     <url>https://jetpad.com.ua/ua/p2796229731-smartfon-xiaomi-redmi.html</url>
     <price>3819</price><price_old>4315</price_old>
@@ -833,7 +833,7 @@
     <picture>https://images.prom.ua/hwX-jo5CDAotRUJxJAcTRjKfpJOfiGj6wAIWVlyTuCg=/4394302127_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/_A_TMUQcT_A0I3B9RqQdghDgxCD8JnQYue3DZC8Lo0k=/4394302059_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi 10A 6/128GB Sky Blue Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi 10A 6/128GB Sky Blue Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><div>
 <table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
@@ -9576,7 +9576,7 @@
     <offer id="1986134113" available="true">
     <article>1986134113</article>
     <url>https://jetpad.com.ua/ua/p1986134113-smartfon-google-pixel.html</url>
-    <price>17135</price><price_old>17715</price_old>
+    <price>17319</price><price_old>17715</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/xcinHrScxw75aQKDkpVtBOro4fdGUiZ78iPD7HrSV5c=/4984572643_smartfon-google-pixel.jpg</picture>
@@ -11108,7 +11108,7 @@
     <offer id="3088956106" available="true">
     <article>3088956106</article>
     <url>https://jetpad.com.ua/ua/p3088956106-smartfon-samsung-galaxy.html</url>
-    <price>18745</price><price_old>19315</price_old>
+    <price>17599</price><price_old>19315</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/R-dHn1d-6jWYoqWVJl3bG-zSPF-_AHNdcR-Q5FqFdV0=/7479057063_smartfon-samsung-galaxy.jpg</picture>
@@ -19393,7 +19393,7 @@
     <param name="Вага" unit="г">172.5</param>
     <param name="Стан" unit="">Refurbished, в заводських плівках, повний комплект, гарантія 12 мсц</param>
   </offer>
-    <offer id="1737631982" available="true">
+    <offer id="1737631982" available="false">
     <article>XR9A64GBL</article>
     <url>https://jetpad.com.ua/ua/p1737631982-smartfon-xiaomi-redmi.html</url>
     <price>3479</price><price_old>6315</price_old>
@@ -19406,7 +19406,7 @@
     <picture>https://images.prom.ua/WLvPuxzkc86AxXLJtpITd3a_FVyri34SXry3rTiW02A=/4168782894_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/sqzh-WwG-s9SaG_7pKZK-Sr0drK3FXbRk-ZbywDVyhs=/4168782892_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi 9A 4/64GB Sky Blue Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi 9A 4/64GB Sky Blue Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div>
 <div>
 <table border="1" class="ck-table-constructor ck-theme-grey ck-table-constructor_type_lite">
@@ -21515,10 +21515,10 @@
     <param name="Модель телефону">Google Pixel 8</param>
     <param name="Стан" unit="">Refurbished, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-    <offer id="2703381126" available="false">
+    <offer id="2703381126" available="true">
     <article>2703381126</article>
     <url>https://jetpad.com.ua/ua/p2703381126-smartfon-google-pixel.html</url>
-    <price>21075</price><price_old>25315</price_old>
+    <price>21359</price><price_old>25315</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/EeLKzya2Rm858jdjJgySAMzA4nO0-j9aUbMup62wUS8=/6772437559_smartfon-google-pixel.jpg</picture>
@@ -21526,7 +21526,7 @@
     <picture>https://images.prom.ua/nS4QKY-K1KtDVnSF4V4hFGLcqwlU8HE_b_XJAfqlMZo=/6772438058_smartfon-google-pixel.jpg</picture>
     <picture>https://images.prom.ua/03HeYQjboYmN7JQVvzmPGROs7kCnLGLxpk2wFoqr5xY=/6772438149_smartfon-google-pixel.jpg</picture>
     <vendor>Google</vendor>
-    <name>Смартфон Google Pixel 8 8/256GB Obsidian Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Google Pixel 8 8/256GB Obsidian Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		    
@@ -23897,7 +23897,7 @@
     <param name="Кількість мегапікселів фронтальної камери" unit="Мп">13</param>
     <param name="Стан" unit="">Refurbished, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-  <offer id="2695320550" available="true">
+  <offer id="2695320550" available="false">
     <article>2695320550</article>
     <url>https://jetpad.com.ua/ua/p2695320550-smartfon-google-pixel.html</url>
     <price>18689</price><price_old>19315</price_old>
@@ -23908,7 +23908,7 @@
     <picture>https://images.prom.ua/nS4QKY-K1KtDVnSF4V4hFGLcqwlU8HE_b_XJAfqlMZo=/6772438058_smartfon-google-pixel.jpg</picture>
     <picture>https://images.prom.ua/03HeYQjboYmN7JQVvzmPGROs7kCnLGLxpk2wFoqr5xY=/6772438149_smartfon-google-pixel.jpg</picture>
     <vendor>Google</vendor>
-    <name>Смартфон Google Pixel 8 8/128GB Obsidian Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Google Pixel 8 8/128GB Obsidian Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		    
@@ -27079,7 +27079,7 @@
     <offer id="2658212519" available="true">
     <article>2658212519</article>
     <url>https://jetpad.com.ua/ua/p2658212519-smartfon-google-pixel.html</url>
-    <price>17135</price><price_old>18315</price_old>
+    <price>17319</price><price_old>18315</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>5090301</categoryId>
     <picture>https://images.prom.ua/dupqe7wjpGxf0M5Yk0eR3oQw3nQoLzWtdbF9WTcU-LI=/6645558259_smartfon-google-pixel.jpg</picture>
@@ -52649,7 +52649,7 @@
     <param name="Количество мегапикселей фронтальной  камеры " unit="Мп">16</param>
     <param name="Стан" unit="">Refurbished, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-    <offer id="1894838325" available="true">
+    <offer id="1894838325" available="false">
     <article>XR9A64GPG</article>
     <url>https://jetpad.com.ua/ua/p1894838325-smartfon-xiaomi-redmi.html</url>
     <price>3480</price><price_old>3715</price_old>
@@ -52661,7 +52661,7 @@
     <picture>https://images.prom.ua/HLxyAAoKF45jZhAYsrCtfHjG_OPgeR7SaaIMtSrHsKY=/4692184921_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/ZHP6ooHTpeqr6U55PD0wolODjh8XQnyfm0yJK4HYLaI=/4692185054_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi 9A 4/64GB Peacook Green Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi 9A 4/64GB Peacook Green Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><div>
 </div>
 
@@ -59876,7 +59876,7 @@
     <param name="Вспышка фронтальной камеры">Нет</param>
     <param name="Стан" unit="">Refurbished, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-    <offer id="2575689059" available="true">
+    <offer id="2575689059" available="false">
     <article>X10AB6128</article>
     <url>https://jetpad.com.ua/ua/p2575689059-smartfon-xiaomi-redmi.html</url>
     <price>3819</price><price_old>4315</price_old>
@@ -59888,7 +59888,7 @@
     <picture>https://images.prom.ua/JAI_qf8wZdEBP1tUx2-i3ZNFwpO6QKpk4cLpCqDz4VE=/3865004465_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/pzeyHh_l8D9TiYLMkx8xB76xT5_BEljhlWTxGlYWGF8=/3865004462_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi 10A 6/128GB Black Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi 10A 6/128GB Black Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><div>
 <table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
@@ -71297,7 +71297,7 @@
     <param name="Количество мегапикселей камеры на лицевой панели" unit="Мп">16</param>
     <param name="Стереодинамики">Да</param>
   </offer>
-    <offer id="2402038516" available="true">
+    <offer id="2402038516" available="false">
     <article>X10AB128</article>
     <url>https://jetpad.com.ua/ua/p2402038516-smartfon-xiaomi-redmi.html</url>
     <price>3765</price><price_old>4315</price_old>
@@ -71309,7 +71309,7 @@
     <picture>https://images.prom.ua/JAI_qf8wZdEBP1tUx2-i3ZNFwpO6QKpk4cLpCqDz4VE=/3865004465_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/pzeyHh_l8D9TiYLMkx8xB76xT5_BEljhlWTxGlYWGF8=/3865004462_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi 10A 4/128GB Black Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi 10A 4/128GB Black Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><div>
 <table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
@@ -72224,7 +72224,7 @@
     <param name="Стереодинамики">Да</param>
     <param name="Вспышка фронтальной камеры">Нет</param>
   </offer>
-    <offer id="2445028762" available="true">
+    <offer id="2445028762" available="false">
     <article>X10AB128</article>
     <url>https://jetpad.com.ua/ua/p2445028762-smartfon-xiaomi-redmi.html</url>
     <price>3765</price><price_old>5315</price_old>
@@ -72239,7 +72239,7 @@
     <picture>https://images.prom.ua/hwX-jo5CDAotRUJxJAcTRjKfpJOfiGj6wAIWVlyTuCg=/4394302127_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/_A_TMUQcT_A0I3B9RqQdghDgxCD8JnQYue3DZC8Lo0k=/4394302059_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi 10A 4/128GB Sky Blue Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi 10A 4/128GB Sky Blue Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><div>
 <table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
@@ -78197,325 +78197,6 @@
     <param name="Толщина" unit="мм">8.9</param>
     <param name="Вес" unit="г">193</param>
     <param name="Стан" unit="">Refurbіshed, запечатаний, в заводських плівках, гарантія 12 мсц</param>
-  </offer>
-    <offer id="1816782987" available="true">
-    <article>XRN10P5G6128G</article>
-    <url>https://jetpad.com.ua/ua/p1816782987-smartfon-xiaomi-redmi.html</url>
-    <price>6599</price><price_old>7315</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>5090301</categoryId>
-    <picture>https://images.prom.ua/wp_8UbzsKW1Hx6mXNJitRlPkxD6QQfdfCAX9OwchMfY=/4424246163_smartfon-xiaomi-redmi.jpg</picture>
-    <picture>https://images.prom.ua/itnaB9SFONY_CGCaKamPCYOS3Vw6T2AkDI0SjxoEDT0=/4424245881_smartfon-xiaomi-redmi.jpg</picture>
-    <picture>https://images.prom.ua/CFZcDv9GocaXkrbVAzzghVI6hlNbG37QCty2VSWb0NY=/4424245867_smartfon-xiaomi-redmi.jpg</picture>
-    <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 10 Pro 5G 6/128GB Gray Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
-    <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-theme-grey ck-table-constructor_type_lite">
-	<tbody>
-		   >
-	</tbody>
-</table>
-
-<p> </p>
-
-<table>
-	<tbody>
-		<tr>
-			<td>Бренд:</td>
-			<td>Xiaomi</td>
-		</tr>
-		<tr>
-			<td>Лінійка:</td>
-			<td>Redmi Note 10 Pro 5G</td>
-		</tr>
-		<tr>
-			<td>Тип: </td>
-			<td>Смартфон</td>
-		</tr>
-		<tr>
-			<td>Попередньо встановлена ОС: </td>
-			<td>Android 11</td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<p>Оснащення</p>
-			</td>
-		</tr>
-		<tr>
-			<td>Оперативна пам'ять, ГБ: </td>
-			<td>6</td>
-		</tr>
-		<tr>
-			<td>Вбудована пам'ять, ГБ: </td>
-			<td>128</td>
-		</tr>
-		<tr>
-			<td>Слот розширення: </td>
-			<td>немає</td>
-		</tr>
-		<tr>
-			<td>Тип SIM-карти: </td>
-			<td>Nano-SIM</td>
-		</tr>
-		<tr>
-			<td>Кількість SIM-карт: </td>
-			<td>2 SIM</td>
-		</tr>
-		<tr>
-			<td>Процесор: </td>
-			<td>MediaTek MT6891Z Dimensity 1100 + Mali-G77 MC9</td>
-		</tr>
-		<tr>
-			<td>Кількість ядер: </td>
-			<td>8</td>
-		</tr>
-		<tr>
-			<td>Частота, GHz: </td>
-			<td>2,6</td>
-		</tr>
-		<tr>
-			<td>Швидка зарядка, Вт:</td>
-			<td>33</td>
-		</tr>
-		<tr>
-			<td>Акумулятор:</td>
-			<td>5000 мАгод (незнімний)</td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<p>Дисплей</p>
-			</td>
-		</tr>
-		<tr>
-			<td>Діагональ, дюйми:</td>
-			<td>6,6</td>
-		</tr>
-		<tr>
-			<td>Роздільна здатність:</td>
-			<td>2400x1080</td>
-		</tr>
-		<tr>
-			<td>Тип матриці:</td>
-			<td>IPS</td>
-		</tr>
-		<tr>
-			<td>PPI: </td>
-			<td>399</td>
-		</tr>
-		<tr>
-			<td>Датчик регулювання яскравості:</td>
-			<td>є</td>
-		</tr>
-		<tr>
-			<td>Частота оновлення, Гц:</td>
-			<td>120</td>
-		</tr>
-		<tr>
-			<td>Особливості дисплея:</td>
-			<td>Gorilla Glass Victus</td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<p>Камера</p>
-			</td>
-		</tr>
-		<tr>
-			<td>Основа камера, МП:</td>
-			<td>64 (f / 1.8) + 8 (f / 2.2) + 5 (f / 2.4) + 2</td>
-		</tr>
-		<tr>
-			<td>Відеозйомка:</td>
-			<td>4K @ 30fps</td>
-		</tr>
-		<tr>
-			<td>Фронтальна камера, Мп:</td>
-			<td>16 (f / 2.5)</td>
-		</tr>
-		<tr>
-			<td>Особливості камери:</td>
-			<td>основний об'єктив 64 МП: 26 мм, 120 градусів, 1 / 1.97 "; ультраширокий об'єктив 8 МП: 13 мм, 119 градусів, 1/4"; допоміжний об'єктив 2 МП і макрооб'єктив 5 МП</td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<p>Комунікації</p>
-			</td>
-		</tr>
-		<tr>
-			<td>Стандарти зв'язку:</td>
-			<td>5G, 4G, 3G</td>
-		</tr>
-		<tr>
-			<td>Wi-Fi:</td>
-			<td>802.11ax</td>
-		</tr>
-		<tr>
-			<td>Bluetooth:</td>
-			<td>5.2</td>
-		</tr>
-		<tr>
-			<td>GPS:</td>
-			<td>є</td>
-		</tr>
-		<tr>
-			<td>IrDA: </td>
-			<td>є</td>
-		</tr>
-		<tr>
-			<td>Аудіо-кодеки:</td>
-			<td>AAC, aptX</td>
-		</tr>
-		<tr>
-			<td>Аудіороз'єм:</td>
-			<td>є</td>
-		</tr>
-		<tr>
-			<td>Інтерфейсний роз'єм:</td>
-			<td>USB Type-C</td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<p>Корпус</p>
-			</td>
-		</tr>
-		<tr>
-			<td>Висота, мм:</td>
-			<td>163,3</td>
-		</tr>
-		<tr>
-			<td>Ширина, мм:</td>
-			<td>75,9</td>
-		</tr>
-		<tr>
-			<td>Товщина, мм:</td>
-			<td>8,9</td>
-		</tr>
-		<tr>
-			<td>Вага, г:</td>
-			<td>193</td>
-		</tr>
-		<tr>
-			<td>Захист від пилу і вологи:</td>
-			<td>IP53</td>
-		</tr>
-		<tr>
-			<td>Тип корпусу:</td>
-			<td>моноблок (нерозбірний)</td>
-		</tr>
-		<tr>
-			<td>Матеріал кришки/рамки:</td>
-			<td>пластик</td>
-		</tr>
-		<tr>
-			<td>Колір корпусу:</td>
-			<td>сірий</td>
-		</tr>
-		<tr>
-			<td>Тип клавіатури:</td>
-			<td>екранне введення</td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<p>Додатково</p>
-			</td>
-		</tr>
-		<tr>
-			<td>Сканер відбитка/обличчя:</td>
-			<td>Сканер відбитків пальців на бічній грані</td>
-		</tr>
-		<tr>
-			<td>Щі:</td>
-			<td>технологія швидкої зарядки Power Delivery, потужність зарядки 67 Вт</td>
-		</tr>
-	</tbody>
-</table>
-
-<p> </p>
-
-<h2>ТРИ КАМЕРИ </h2>
-
-<p>Система з трьох камер дозволить зберегти яскраві враження від особливих моментів. Головна ширококутна камера 64 Мб захоплює максимум світла і отримує чудові знімки з точною проробкою всіх деталей. Ширококутна камера 8 Мп розрахована на панорамні фотографії. Датчик глибини 2 Мп створює ефект боці для портретів професійного рівня.</p>
-
-<p></p>
-
-<h2>КОЛИ ВАЖЛИВІ ДЕТАЛІ</h2>
-
-<p>Основна камера 64 Мп знімає чудові фотографії, на яких добре видно кожну деталь. Ви зможете легко збільшити будь-яку частину фото і акцентувати увагу на важливих дрібницях.</p>
-
-<p></p>
-
-<h2>ПОРТРЕТ</h2>
-
-<p>Портретний режим на ШІ дозволяє створювати справжні шедеври, які вражають своєю реалістичною і природною красою. Режим довгої витягки з використанням різних спецефектів і фільтрів перетворює фотографію на мистецтво.</p>
-
-<p></p>
-
-<h2>СУЧАСНА ПРОДУКТИВНІСТЬ</h2>
-
-<p>Могутня система на основі 6 нм чіпсета MediaTek MT6891Z показує високу продуктивність і стабільну роботу Redmi Note 10 Pro навіть при пікових навантаженнях. Смартфон легко справляється з вимогливими іграми і дозволяє користуватися будь-якими програмами, підтримує багатозадачність, дає змогу вести стримінги і дивитися відео у високому якості.</p>
-
-<p></p>
-
-<h2>ПОТУЖНЕ ЗВУЧАННЯ</h2>
-
-<p>Подвійні динаміки відтворюють потужний і чистий звук у широкому діапазоні і переносять вас в епіцентр подій.</p>
-
-<p></p>
-
-<h2>АВТОНОМНІСТЬ</h2>
-
-<p>Вбудована батарея ємності 5000 мАч, завдяки інноваційним технологіям енергоефективності забезпечує до двох днів роботу Redmi Note 10 Pro при стандартному використанні.</p>
-
-<p></p>
-
-<h2>ІДЕАЛЬНЕ ПОЄДНАННЯ ЕСТЕТІКИ І ГЕОМЕТРІЇ</h2>
-
-<p>Зокруглені грані та кути, м’яке блимання задньої панелі з наношеним матовим або глянцевим покриттям, викладені співвідношенням Redmi Note 10 Pro створюють відчуття ідеальності стилю і створюють для користувача комфорт на новий рівень.</p>
-
-		<tr>
-			<td><strong>Стан</strong></td>
-			<td>Увага! Стан товару — Refurbished. Refurbished — відновлений товар. Часто товар повертається виробнику з різних причин: повернення від покупця, передпродажні пошкодження товару чи пакування, списання залежалих залишків, пошкодження при транспортуванні. Після повернення такий товар тестують, ремонтують та оновлюють до заводських налаштувань, відповідно до вимог виробника.
-</td>
-		</tr>
-
-</div>]]></description>
-    <param name="Тип устройства">Смартфон</param>
-    <param name="Форм-фактор">Моноблок</param>
-    <param name="Количество поддерживаемых SIM-карт">2</param>
-    <param name="ОС">Android</param>
-    <param name="Тип SIM-карты">Nano-SIM</param>
-    <param name="Цвет">Серый</param>
-    <param name="Гарантийный срок" unit="мес">12</param>
-    <param name="Цветной экран">Да</param>
-    <param name="Тип экрана">IPS</param>
-    <param name="Диагональ экрана" unit="дюйм">6.6</param>
-    <param name="Число пикселей на дюйм, PPI">399</param>
-    <param name="Сенсорный экран">Да</param>
-    <param name="Тип сенсорного экрана">Емкостный</param>
-    <param name="Технология Multitouch">Да</param>
-    <param name="Автоматический поворот экрана">Да</param>
-    <param name="Устойчивый к царапинам экран">Да</param>
-    <param name="Громкая связь">Да</param>
-    <param name="Световая индикация событий">Да</param>
-    <param name="Режим полета">Да</param>
-    <param name="Ожидание/удержание вызова">Да</param>
-    <param name="Процессор">MediaTek Dimensity 1100</param>
-    <param name="Количество ядер">8</param>
-    <param name="Частота процессора" unit="МГц">2600</param>
-    <param name="Видеопроцессор">Mali-G77 MC9</param>
-    <param name="Объём встроенной памяти" unit="GB">128</param>
-    <param name="Объем оперативной памяти" unit="MB">6144</param>
-    <param name="Емкость аккумулятора" unit="мА/ч">5000</param>
-    <param name="Фотокамера">Да</param>
-    <param name="Количество мегапикселей камеры" unit="Мп">64</param>
-    <param name="Запись видео">Да</param>
-    <param name="Максимальное разрешение видео">3840x2160</param>
-    <param name="Камера на лицевой панели">Да</param>
-    <param name="Количество мегапикселей камеры на лицевой панели" unit="Мп">16</param>
-    <param name="Высота" unit="мм">163.3</param>
-    <param name="Ширина" unit="мм">75.9</param>
-    <param name="Толщина" unit="мм">8.9</param>
-    <param name="Вес" unit="г">193</param>
-    <param name="Стан" unit="">Refurbіshed, запечатаний, в заводських плівках, гарантія 12 мсц</param>
-    <param name="Разрешение экрана" unit="">2400 x 1080</param>
   </offer>
     <offer id="2321935762" available="false">
     <article>XRN7P6128BL</article>
@@ -130203,7 +129884,7 @@ Google Assistant</h3>
     <param name="Толщина" unit="мм">8.8</param>
     <param name="Вес" unit="г">220</param>
   </offer>
-  <offer id="1409338581" available="true">
+  <offer id="1409338581" available="false">
     <article>XR9A64GG</article>
     <url>https://jetpad.com.ua/p1409338581-smartfon-xiaomi-redmi.html</url>
     <price>3480</price> <price_old>3756</price_old>
@@ -130213,7 +129894,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/Qb2HmlaRVLWVNP3jMhRI6kNVhMWP3fK2ZpA_pYVRniQ=/3100297368_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/CRQoDB8NX173-_StThyGuvWg96GHofZ3jXLDn30nVGY=/3100297366_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi 9A 4/64GB Granite Gray Global Rom Refurbished</name> <stock_quantity>100</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi 9A 4/64GB Granite Gray Global Rom Refurbished</name> <stock_quantity>0</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div>
 <div>
 <table border="1" class="ck-table-constructor ck-theme-grey ck-table-constructor_type_lite">
@@ -135902,327 +135583,6 @@ Google Assistant</h3>
     <param name="Толщина" unit="мм">8.9</param>
     <param name="Вес" unit="г">193</param>
     <param name="Стан" unit="">Refurbіshed, запечатаний, в заводських плівках, гарантія 12 мсц</param>
-  </offer>
-    <offer id="1877368170-2" available="true">
-    <article>XRN125G128Gr</article>
-    <url>https://jetpad.com.ua/ua/p1877368170-smartfon-xiaomi-redmi.html</url>
-    <price>7309</price><price_old>7129</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>5090301</categoryId>
-    <picture>https://images.prom.ua/6455737755_w640_h640_6455737755.jpg</picture>
-    <picture>https://images.prom.ua/6455732516_w640_h640_6455732516.jpg</picture>
-    <picture>https://images.prom.ua/6455732389_w640_h640_6455732389.jpg</picture>
-    <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 12 5G 6/128GB Gray Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
-    <description><![CDATA[<div><div>
-<div>
-<table border="1" class="ck-table-constructor ck-theme-grey ck-table-constructor_type_lite">
-	<tbody>
-		    
-	</tbody>
-</table>
-</div>
-</div>
-
-<table>
-	<tbody>
-		<tr>
-			<td>Бренд:</td>
-			<td>Xiaomi</td>
-		</tr>
-		<tr>
-			<td>Лінійка:</td>
-			<td>Redmi Note 12 5G</td>
-		</tr>
-		<tr>
-			<td>Тип: </td>
-			<td>Смартфон</td>
-		</tr>
-		<tr>
-			<td>Попередньо встановлена ОС: </td>
-			<td>Android 13</td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<p>Оснащення</p>
-			</td>
-		</tr>
-		<tr>
-			<td>Оперативна пам'ять, ГБ: </td>
-			<td>6</td>
-		</tr>
-		<tr>
-			<td>Вбудована пам'ять, ГБ: </td>
-			<td>128</td>
-		</tr>
-		<tr>
-			<td>Слот розширення: </td>
-			<td>є</td>
-		</tr>
-		<tr>
-			<td>Тип SIM-карти: </td>
-			<td>Nano-SIM</td>
-		</tr>
-		<tr>
-			<td>Кількість SIM-карт: </td>
-			<td>SIM + SIM або картка пам'яті</td>
-		</tr>
-		<tr>
-			<td>Процесор: </td>
-			<td>Qualcomm Snapdragon 4 Gen 1</td>
-		</tr>
-		<tr>
-			<td>Кількість ядер: </td>
-			<td>8</td>
-		</tr>
-		<tr>
-			<td>Частота, GHz: </td>
-			<td>2,0</td>
-		</tr>
-		<tr>
-			<td>Швидка зарядка, Вт:</td>
-			<td>33 (PD 3.0, QC 4.0)</td>
-		</tr>
-		<tr>
-			<td>Акумулятор:</td>
-			<td>5000 мАгод (незнімна)</td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<p>Дисплей</p>
-			</td>
-		</tr>
-		<tr>
-			<td>Діагональ, дюйми:</td>
-			<td>6,67</td>
-		</tr>
-		<tr>
-			<td>Роздільна здатність:</td>
-			<td>2400x1080</td>
-		</tr>
-		<tr>
-			<td>Тип матриці:</td>
-			<td>AMOLED</td>
-		</tr>
-		<tr>
-			<td>PPI: </td>
-			<td>394</td>
-		</tr>
-		<tr>
-			<td>Датчик регулювання яскравості:</td>
-			<td>є</td>
-		</tr>
-		<tr>
-			<td>Частота оновлення, Гц:</td>
-			<td>120</td>
-		</tr>
-		<tr>
-			<td>Особливості дисплея:</td>
-			<td>Пікова яскравість 1200 ніт, частота спрацьовування сенсора екрану 240 Гц</td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<p>Камера</p>
-			</td>
-		</tr>
-		<tr>
-			<td>Основна камера, Мп:</td>
-			<td>48 (f/1.8, ширококутна) + 8 (f/2.2, надширококутна, 118 градусів) + 2 (f/2.4, макро-об'єктив)</td>
-		</tr>
-		<tr>
-			<td>Відеозйомка:</td>
-			<td>1080p @ 30fps</td>
-		</tr>
-		<tr>
-			<td>Фронтальна камера, Мп:</td>
-			<td>13 (f/2.45)</td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<p>Комунікації</p>
-			</td>
-		</tr>
-		<tr>
-			<td>Стандарти зв'язку:</td>
-			<td>3G, 4G, 5G</td>
-		</tr>
-		<tr>
-			<td>Wi-Fi:</td>
-			<td>802.11ac</td>
-		</tr>
-		<tr>
-			<td>Bluetooth:</td>
-			<td>5.1</td>
-		</tr>
-		<tr>
-			<td>GPS:</td>
-			<td>+ (Glonass, Beidou, Galileo, QZSS)</td>
-		</tr>
-		<tr>
-			<td>IrDA: </td>
-			<td>є</td>
-		</tr>
-		<tr>
-			<td>Аудіо-кодеки:</td>
-			<td>AAC</td>
-		</tr>
-		<tr>
-			<td>Аудіороз'єм:</td>
-			<td>є</td>
-		</tr>
-		<tr>
-			<td> </td>
-			<td> </td>
-		</tr>
-		<tr>
-			<td>Інтерфейсний роз'єм:</td>
-			<td>USB Type-C (2.0)</td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<p>Корпус</p>
-			</td>
-		</tr>
-		<tr>
-			<td>Висота, мм:</td>
-			<td>165,88</td>
-		</tr>
-		<tr>
-			<td>Ширина, мм:</td>
-			<td>76,21</td>
-		</tr>
-		<tr>
-			<td>Товщина, мм:</td>
-			<td>7,98</td>
-		</tr>
-		<tr>
-			<td>Вага, г:</td>
-			<td>188</td>
-		</tr>
-		<tr>
-			<td>Захист від пилу і вологи:</td>
-			<td>IP53</td>
-		</tr>
-		<tr>
-			<td>Ударостійкість: </td>
-			<td>немає</td>
-		</tr>
-		<tr>
-			<td>Тип корпусу:</td>
-			<td>моноблок (нерозбірний)</td>
-		</tr>
-		<tr>
-			<td>Матеріал кришки/рамки:</td>
-			<td>пластик</td>
-		</tr>
-		<tr>
-			<td>Колір корпусу:</td>
-			<td>чорний</td>
-		</tr>
-		<tr>
-			<td>Тип клавіатури:</td>
-			<td>екранне введення</td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<p>Додатково</p>
-			</td>
-		</tr>
-		<tr>
-			<td>Сканер відбитка/обличчя:</td>
-			<td>Сканер відбитків пальців на бічній грані</td>
-		</tr>
-		<tr>
-			<td>Стереодинаміки:</td>
-			<td>немає</td>
-		</tr>
-	</tbody>
-</table>
-
-<p><span><strong>Огляд Redmi Note 12 5G</strong></span></p>
-
-<section id="extended-description">
-<p><span><strong></strong></span></p>
-
-<h3><strong>Суперможливості Redmi</strong></h3>
-
-<p>Смартфон Redmi Note 12 5G готовий до майбутнього в усіх напрямках. Потужний чіпсет Qualcomm Snapdragon 4 Gen 1 демонструє безпрецедентну швидкодію та обчислювальну потужність при вирішенні будь-яких завдань. Підтримка Dual 5G виводить якість зв'язку на абсолютно новий рівень. 6.67-дюймовий FHD+ Super AMOLED дисплей із частотою 120 Гц 4096 рівнями яскравості забезпечує повністю імерсивний користувальницький досвід. Потрійна камера 48 Мп створює чудові фото. Батарея 5000 мАг з підтримкою швидкого заряджання гарантує багато годин автономної роботи.</p>
-
-<h3><strong>Світ надшвидкостей</strong></h3>
-
-<p>Стандарт 5G допоможе вам зрозуміти різницю між швидко та супершвидко. З 5G на завантаження фільму у високій якості піде всього пару хвилин, і ви зможете насолоджуватися плавною грою та чітким відеозв'язком без спотворень та затримок. Обидва слоти для SIM-карт підтримують стандарт 5G, щоб ви могли користуватися перевагами різних операторів зв'язку на надшвидкості.</p>
-
-<p></p>
-
-<h3><strong>Повне занурення у контент</strong></h3>
-
-<p>6,67-дюймовий Super AMOLED дисплей відтворює живу та яскраву картинку у FHD+ якості. Підтримка 100% DCI-P3 забезпечує точну передачу кольорів і покращену контрастність, а яскравість 1200 ніт гарантує відмінну видимість при будь-якому освітленні. Насолоджуйтесь плавністю контенту та м'яким скролінгом завдяки частоті 120 Гц.</p>
-
-<p></p>
-
-<h3><strong>Потужний процесор Snapdragon</strong></h3>
-
-<p>Оцініть чудовий користувальницький інтерфейс і стабільну безперебійну роботу Redmi Note 12 5G. 6нм процесор Snapdragon 4 Gen 1 дає можливість легко користуватися будь-якими ресурсомісткими програмами, грати в сучасні ігри, працювати з документами та редагувати фото. Ваш смартфон з підтримкою 5G для двох сім-карт відрізняється низьким енергоспоживанням, високою стабільністю всіх процесів та миттєвим вирішенням будь-яких завдань.</p>
-
-<p></p>
-
-<h3><strong>Більше часу на роботу – менше на підзарядку</strong></h3>
-
-<p>Потужна батарея на 5000 мАг забезпечує цілий день роботи в комфортному для вас темпі. Ви зможете дивитися відео понад 23 години або до 34 годин користуватися смартфоном у режимі розмов. А швидка зарядка потужністю 33 Вт всього за 22 хвилини заряджає батарею до 50%, це швидше, ніж триватиме ваша перерва на каву.</p>
-
-<p></p>
-
-<h3><strong>Супер-тонкий супер-стильний дизайн</strong></h3>
-
-<p>Redmi Note 12 5G захоплює увагу витонченим преміальним дизайном. Його задня панель має приємну матову текстуру, товщина корпусу складає лише 7.99 мм. Лаконічна форма та плавні лінії забезпечують зручний захват та максимальний комфорт при використанні. Вибирайте з трьох розкішних кольорів: Frosted Green / Matte Black / Mystique Blue.</p>
-
-<p></p>
-
-<h3><strong>Чіткі та яскраві фото</strong></h3>
-
-<p>З удосконаленою камерою 48 Мп, макрокамерою та надширококутною камерою 8 Мп можна сміливо розраховувати на ідеальний результат будь-якої фотосесії. Створюйте чудові портрети, панорамні та групові знімки, фотографуйте з різних ракурсів та крупним планом – адже у будь-якому випадку вам гарантовано успіх. Селфі-камера 13 Мп гарантує, що будь-який селфі-знімок підкреслить вашу природну привабливість.</p>
-
-		<tr>
-			<td><strong>Стан</strong></td>
-			<td>Увага! Стан товару — Refurbished. Refurbished — відновлений товар. Часто товар повертається виробнику з різних причин: повернення від покупця, передпродажні пошкодження товару чи пакування, списання залежалих залишків, пошкодження при транспортуванні. Після повернення такий товар тестують, ремонтують та оновлюють до заводських налаштувань, відповідно до вимог виробника.
-</td>
-		</tr>
-</section>
-</div>]]></description>
-    <param name="Тип устройства">Смартфон</param>
-    <param name="Форм-фактор">Моноблок</param>
-    <param name="Стандарт связи">3G (UMTS, HSUPA, HSPA)|4G (LTE)|GPRS, GSM|5G</param>
-    <param name="Количество поддерживаемых SIM-карт">2</param>
-    <param name="Состояние">Новое</param>
-    <param name="ОС">Android</param>
-    <param name="Тип SIM-карты">Nano-SIM</param>
-    <param name="Цвет">Черный</param>
-    <param name="Гарантийный срок" unit="мес">12</param>
-    <param name="Стандарт Bluetooth">5.1</param>
-    <param name="Цветной экран">Да</param>
-    <param name="Тип экрана">Super AMOLED</param>
-    <param name="Диагональ экрана" unit="дюйм">6.67</param>
-    <param name="Разрешение экрана">2400*1080</param>
-    <param name="Число пикселей на дюйм, PPI">395</param>
-    <param name="Сенсорный экран">Да</param>
-    <param name="Технология Multitouch">Да</param>
-    <param name="Автоматический поворот экрана">Да</param>
-    <param name="Устойчивый к царапинам экран">Да</param>
-    <param name="Процессор">Qualcomm Snapdragon 4 Gen 1</param>
-    <param name="Количество ядер">8</param>
-    <param name="Частота процессора" unit="МГц">2000</param>
-    <param name="Объём встроенной памяти" unit="GB">128</param>
-    <param name="Объем оперативной памяти" unit="MB">6144</param>
-    <param name="Слоты карты памяти">microSD</param>
-    <param name="Емкость аккумулятора" unit="мА/ч">5000</param>
-    <param name="Фотокамера">Да</param>
-    <param name="Количество мегапикселей камеры" unit="Мп">48</param>
-    <param name="Вспышка">Светодиодная</param>
-    <param name="Запись видео">Да</param>
-    <param name="Максимальное разрешение видео">3840x2160</param>
-    <param name="Максимальная частота кадров видео">30 кадров/с</param>
-    <param name="Камера на лицевой панели">Да</param>
-    <param name="Количество мегапикселей камеры на лицевой панели" unit="Мп">8</param>
   </offer>
     <offer id="1878243873-2" available="true">
     <article>XRN125G128Bl</article>
@@ -173554,7 +172914,7 @@ Google Assistant</h3>
     <param name="Стереодинамики">Да</param>
     <param name="Разъем для наушников">3,5 мм</param>
   </offer>
-    <offer id="2791364790" available="true">
+    <offer id="2791364790" available="false">
     <article>2791364790</article>
     <url>https://jetpad.com.ua/ua/p2791364790-smartfon-xiaomi-redmi.html</url>
     <price>13198</price><price_old>14315</price_old>
@@ -173568,7 +172928,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/vIaxqBHrrvgDiyqF5ELL2U9eg89Fooor9qr1-qlmmxk=/6882857301_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/xA1n2MjSdfl3WA-yskdnSWfUVFaOMeQ9VPyRGr6fE50=/6882857418_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 14 Pro+ 5G 8/256GB Midnight Black Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi Note 14 Pro+ 5G 8/256GB Midnight Black Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		    
@@ -173988,7 +173348,7 @@ Google Assistant</h3>
     <param name="Модель телефону">Xiaomi Redmi Note 14 Pro</param>
     <param name="Стан" unit="">Refurbished, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-    <offer id="2790276928" available="true">
+    <offer id="2790276928" available="false">
     <article>2790276928</article>
     <url>https://jetpad.com.ua/ua/p2790276928-smartfon-xiaomi-redmi.html</url>
     <price>13699</price><price_old>15315</price_old>
@@ -174002,7 +173362,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/vIaxqBHrrvgDiyqF5ELL2U9eg89Fooor9qr1-qlmmxk=/6882857301_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/xA1n2MjSdfl3WA-yskdnSWfUVFaOMeQ9VPyRGr6fE50=/6882857418_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi Note 14 Pro+ 5G 12/256GB Midnight Black Global Rom Refurbished</name><stock_quantity>100</stock_quantity><state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi Note 14 Pro+ 5G 12/256GB Midnight Black Global Rom Refurbished</name><stock_quantity>0</stock_quantity><state>Refurbished</state>
     <description><![CDATA[<div><table border="1" class="ck-table-constructor ck-table-constructor_type_lite ck-theme-grey">
 	<tbody>
 		    
@@ -175289,7 +174649,7 @@ Google Assistant</h3>
     <param name="Стереодинаміки">Так</param>
     <param name="Стан" unit="">Refurbished, в заводських плівках, гарантія 12 мсц</param>
   </offer>
-  <offer id="1643210627" available="true">
+  <offer id="1643210627" available="false">
     <article>X10AB64</article>
     <url>https://jetpad.com.ua/p1643210627-smartfon-xiaomi-redmi.html</url>
     <price>3655</price> <price_old>4385</price_old>
@@ -175301,7 +174661,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/JAI_qf8wZdEBP1tUx2-i3ZNFwpO6QKpk4cLpCqDz4VE=/3865004465_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/pzeyHh_l8D9TiYLMkx8xB76xT5_BEljhlWTxGlYWGF8=/3865004462_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi 10A 4/64GB Black Global Rom Refurbished</name> <stock_quantity>100</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi 10A 4/64GB Black Global Rom Refurbished</name> <stock_quantity>0</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><div>
 <table border="1" class="ck-table-constructor ck-theme-grey ck-table-constructor_type_lite">
 	<tbody>
@@ -193158,414 +192518,6 @@ Google Assistant</h3>
     <param name="Толщина" unit="мм">8.4</param>
     <param name="Вес" unit="г">190</param>
   </offer>
-    <offer id="1738819585" available="false">
-    <article>SXXZ3BB</article>
-    <url>https://jetpad.com.ua/ua/p1738819585-smartfon-sony-xperia.html</url>
-    <price>6225</price> <price_old>7699</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>5090301</categoryId>
-    <picture>https://images.prom.ua/775BzqgnZUV-uUEk4B1O3w8xVHVTd1vv3kuvAwgArUk=/4172294332_smartfon-sony-xperia.jpg</picture>
-    <picture>https://images.prom.ua/uHNt5Tx6T5wDS9AIt-SZ5q2CNkKnboST84oPKtivD68=/4172294333_smartfon-sony-xperia.jpg</picture>
-    <picture>https://images.prom.ua/6n8A6TCBFvFQhJ4KEUq_JmzC_SQwxE6gnyAGI7YGoOI=/4172294334_smartfon-sony-xperia.jpg</picture>
-    <picture>https://images.prom.ua/t5rSr1PfkwyhoU9F6f7UxNzneCo6ZlNW8SYTF1Y0Aq8=/4172294335_smartfon-sony-xperia.jpg</picture>
-    <picture>https://images.prom.ua/JhWlcnkDd4lFlO0SsfzOJITcMaUGIMZyAxcnUXQZKTk=/4172294336_smartfon-sony-xperia.jpg</picture>
-    <picture>https://images.prom.ua/KzwE9qE9NgsoF4c3Vjc1MPDNd-RMgJHo-7SO4p0fPyI=/4172294337_smartfon-sony-xperia.jpg</picture>
-    <vendor>Sony</vendor>
-    <name>смартфон Sony Xperia XZ3 Black Refurbished</name> <stock_quantity>0</stock_quantity> <state>Refurbished</state>
-    <description><![CDATA[<div><div>
-<table border="1" class="ck-table-constructor ck-theme-grey ck-table-constructor_type_lite">
-	<tbody>
-		    
-	</tbody>
-</table>
-
-<p> </p>
-</div>
-
-<table>
-	<tbody>
-		<tr>
-			<td colspan="2">
-			<h3>Технічні характеристики</h3>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<table>
-	<tbody>
-		<tr>
-			<td>
-			<table>
-				<thead>
-					<tr>
-						<td>
-						<h3>Зв’ язок</h3>
-						</td>
-					</tr>
-				</thead>
-				<tbody>
-					<tr>
-						<td>Кількість IM-карт</td>
-						<td>1 SIM</td>
-					</tr>
-					<tr>
-						<td>Формат SIM-карти</td>
-						<td>Nano-SIM</td>
-					</tr>
-					<tr>
-						<td>Стандартні зв’язки</td>
-						<td>3G, 4G (LTE), GSM</td>
-					</tr>
-				</tbody>
-			</table>
-
-			<p>     </p>
-
-			<table>
-				<thead>
-					<tr>
-						<td>
-						<h3>Екран</h3>
-						</td>
-					</tr>
-				</thead>
-				<tbody>
-					<tr>
-						<td>Діагональ екрана</td>
-						<td>6"</td>
-					</tr>
-					<tr>
-						<td>Роздільна здатність екрана</td>
-						<td>2880х1440</td>
-					</tr>
-					<tr>
-						<td>Тип екрана</td>
-						<td>OLED</td>
-					</tr>
-					<tr>
-						<td>Захисне скло</td>
-						<td>Corning Gorilla Glass 5</td>
-					</tr>
-					<tr>
-						<td>Додатково</td>
-						<td>Дисплей TRILUMINOS™ Display for mobile<br>
-						Технологія X-RealityTM для мобільних пристроїв<br>
-						Функція Dynamic Contrast Enhancer<br>
-						Покращення якості до HDR</td>
-					</tr>
-				</tbody>
-			</table>
-
-			<p>    </p>
-
-			<table>
-				<thead>
-					<tr>
-						<td>
-						<h3>Процесор</h3>
-						</td>
-					</tr>
-				</thead>
-				<tbody>
-					<tr>
-						<td>Процесор</td>
-						<td>Qualcomm Snapdragon 845</td>
-					</tr>
-					<tr>
-						<td>Кількість ядер</td>
-						<td>8</td>
-					</tr>
-					<tr>
-						<td>Частота процеcсора</td>
-						<td>2.8 ГГц</td>
-					</tr>
-					<tr>
-						<td>Графічний процесор</td>
-						<td>Adreno 630</td>
-					</tr>
-				</tbody>
-			</table>
-
-			<p>    </p>
-
-			<table>
-				<thead>
-					<tr>
-						<td>
-						<h3>Пам' ять</h3>
-						</td>
-					</tr>
-				</thead>
-				<tbody>
-					<tr>
-						<td>Внутрішня пам’ ять</td>
-						<td>64 ГБ</td>
-					</tr>
-					<tr>
-						<td>Оперативна пам' ять</td>
-						<td>4 ГБ</td>
-					</tr>
-				</tbody>
-			</table>
-
-			<p>       </p>
-
-			<table>
-				<thead>
-					<tr>
-						<td>
-						<h3>Фотоапарат</h3>
-						</td>
-					</tr>
-				</thead>
-				<tbody>
-					<tr>
-						<td>Фотоапарат</td>
-						<td>19 Мп</td>
-					</tr>
-					<tr>
-						<td>Діафрагма</td>
-						<td>f/2.0</td>
-					</tr>
-					<tr>
-						<td>Запис відео</td>
-						<td>4К UHD (3840x2160)</td>
-					</tr>
-					<tr>
-						<td>Фокусування</td>
-						<td>Гібридна</td>
-					</tr>
-					<tr>
-						<td>Спалах головної камери</td>
-						<td>Є</td>
-					</tr>
-					<tr>
-						<td>Фронтальна камера</td>
-						<td>13 Мп</td>
-					</tr>
-					<tr>
-						<td>Додатково</td>
-						<td><strong>Головна камера</strong> Камера Motion Eye™ 19 Мп<br>
-						1/2,3-дюймова матриця Exmor RSTM з пам'яттю для мобільних пристроїв<br>
-						Крок пікселя: 1,2 мкм<br>
-						Фірмований 25-міліметровий ширококутний об'єктив Sony G Lens з діафрагмою f/2,0<br>
-						Попередньо гібридний автофокус (0,03 с)<br>
-						Технологія обробки зображень BIONZTM для мобільних пристроїв<br>
-						Зверху уповільнена відеозйомка з частотою 960 кадрів/с (FHD/HD)<br>
-						Перейменування знімання (знімання/ усмішка)<br>
-						Серійна зйомка з послідовним автофокусом<br>
-						8-червоний цифровий зум для фото- і відеозйомки<br>
-						Фотознімка у режимі HDR<br>
-						Відеозапис 4K HDR6<br>
-						Швидкий запуск фотоапарата і зйомка<br>
-						Світлочутливість в режимі фотознімки: ISO 12800<br>
-						Світло чутливість у режимі відеознімки: ISO 4000<br>
-						Попередньо гібридний автофокус<br>
-						Компенсація спотворень<br>
-						Технологія взаємодії трьох сенсорів<br>
-						Технологія стабілізації відео SteadyShotTM з розумним активним режимом (5-особливо стабілізація)7<br>
-						<br>
-						<strong>Фронтальна камера</strong><br>
-						1/3,06-дюймова матриця Exmor RSTM для мобільних пристроїв<br>
-						23-міліметровий ширококутний об'єктив<br>
-						Світлочутливість в режимі фотознімки: ISO 6400<br>
-						Світло чутливість у режимі відеознімки: ISO 1600<br>
-						Технологія стабілізації відео SteadyShotTM з розумним активним режимом (5-особливо стабілізація)</td>
-					</tr>
-				</tbody>
-			</table>
-
-			<p> </p>
-
-			<table>
-				<thead>
-					<tr>
-						<td>
-						<h3>Операційна система</h3>
-						</td>
-					</tr>
-				</thead>
-				<tbody>
-					<tr>
-						<td>Операційна система</td>
-						<td>Android 9.0</td>
-					</tr>
-				</tbody>
-			</table>
-
-			<p>         </p>
-
-			<table>
-				<thead>
-					<tr>
-						<td>
-						<h3>Бездротові технології</h3>
-						</td>
-					</tr>
-				</thead>
-				<tbody>
-					<tr>
-						<td>Wi-Fi</td>
-						<td>Є</td>
-					</tr>
-					<tr>
-						<td>Технологія GPS</td>
-						<td>A-GPS, GPS</td>
-					</tr>
-					<tr>
-						<td>Супутникова система</td>
-						<td>GPS, ГЛОНАС</td>
-					</tr>
-					<tr>
-						<td>Bluetooth</td>
-						<td>5.0</td>
-					</tr>
-					<tr>
-						<td>NFC</td>
-						<td>Є</td>
-					</tr>
-					<tr>
-						<td>Бездротова зарядка</td>
-						<td>Є</td>
-					</tr>
-					<tr>
-						<td>Інфрачервоний порт</td>
-						<td>Ні.</td>
-					</tr>
-					<tr>
-						<td>FM-тюнер</td>
-						<td>Ні.</td>
-					</tr>
-					<tr>
-						<td>Функція рації</td>
-						<td>Ні.</td>
-					</tr>
-				</tbody>
-			</table>
-
-			<p> </p>
-
-			<table>
-				<thead>
-					<tr>
-						<td>
-						<h3>Інтерфейс</h3>
-						</td>
-					</tr>
-				</thead>
-				<tbody>
-					<tr>
-						<td>Інтерфейс і з’ єднання</td>
-						<td>USB Type-C</td>
-					</tr>
-				</tbody>
-			</table>
-
-			<p>      </p>
-
-			<table>
-				<thead>
-					<tr>
-						<td>
-						<h3>Корпус</h3>
-						</td>
-					</tr>
-				</thead>
-				<tbody>
-					<tr>
-						<td>Матеріал для корпусу</td>
-						<td>Метал, Стекло</td>
-					</tr>
-					<tr>
-						<td>Технології</td>
-						<td>Акселерометр, Гіроскоп, Датчик освітлення, Датчик наближення, Компас, Сканер відбитка пальців</td>
-					</tr>
-					<tr>
-						<td>Додатково</td>
-						<td>Технологія Color Spectrum</td>
-					</tr>
-					<tr>
-						<td>Колір</td>
-						<td>Чорний</td>
-					</tr>
-				</tbody>
-			</table>
-
-			<p>  </p>
-
-			<table>
-				<thead>
-					<tr>
-						<td>
-						<h3>Акумулятор</h3>
-						</td>
-					</tr>
-				</thead>
-				<tbody>
-					<tr>
-						<td>Емкість акумулятора</td>
-						<td>3330 mAh</td>
-					</tr>
-					<tr>
-						<td>Швидка зарядка</td>
-						<td>Є</td>
-					</tr>
-				</tbody>
-			</table>
-
-			<p>  </p>
-
-			<table>
-				<thead>
-					<tr>
-						<td>
-						<h3>Габарити і комплектація</h3>
-						</td>
-					</tr>
-				</thead>
-				<tbody>
-					<tr>
-						<td>Розміри</td>
-						<td>158 x 73 x 9,9 мм</td>
-					</tr>
-					<tr>
-						<td>Вага, г</td>
-						<td>193 г</td>
-					</tr>
-				</tbody>
-			</table>
-			</td>
-		</tr>
-	</tbody>
-</table>
-<tr>
-			<td><strong>Стан</strong></td>
-			<td>Увага! Стан товару — Refurbished. Refurbished — відновлений товар. Часто товар повертається виробнику з різних причин: повернення від покупця, передпродажні пошкодження товару чи пакування, списання залежалих залишків, пошкодження при транспортуванні. Після повернення такий товар тестують, ремонтують та оновлюють до заводських налаштувань, відповідно до вимог виробника.
-</td>
-		</tr>
-</div>]]></description>
-    <param name="Гарантийный срок" unit="мес">12</param>
-    <param name="Тип устройства">Смартфон</param>
-    <param name="Количество поддерживаемых SIM-карт">1</param>
-    <param name="ОС">Android</param>
-    <param name="Тип SIM-карты">Nano-SIM</param>
-    <param name="Емкость аккумулятора" unit="мА/ч">3300</param>
-    <param name="Крепление аккумулятора">Несъемный</param>
-    <param name="Фотокамера">Да</param>
-    <param name="Количество мегапикселей камеры" unit="Мп">19</param>
-    <param name="Камера на лицевой панели">Да</param>
-    <param name="Количество мегапикселей камеры на лицевой панели" unit="Мп">13</param>
-    <param name="Разъем для наушников">3,5 мм</param>
-    <param name="Разрешение экрана">2880x1440</param>
-    <param name="Диагональ экрана" unit="дюйм">6</param>
-    <param name="Тип экрана">OLED</param>
-    <param name="Цветной экран">Да</param>
-    <param name="Объём встроенной памяти" unit="GB">64</param>
-    <param name="Слоты карты памяти">microSD</param>
-    <param name="Максимальный размер карты памяти">1Tb</param>
-    <param name="Цвет">Черный</param>
-  </offer>
   <offer id="1785608271-1" available="false">
     <article>SXXZ264S</article>
     <url>https://jetpad.com.ua/p1785608271-smartfon-sony-xperia.html</url>
@@ -207115,7 +206067,7 @@ Google Assistant</h3>
     <param name="Слоты карты памяти">Нет</param>
     <param name="Процессор">Qualcomm Snapdragon 765G</param>
   </offer>
-  <offer id="1808224871" available="true">
+  <offer id="1808224871" available="false">
     <article>X10AB64</article>
     <url>https://jetpad.com.ua/p1808224871-smartfon-xiaomi-redmi.html</url>
     <price>3655</price> <price_old>4385</price_old>
@@ -207130,7 +206082,7 @@ Google Assistant</h3>
     <picture>https://images.prom.ua/hwX-jo5CDAotRUJxJAcTRjKfpJOfiGj6wAIWVlyTuCg=/4394302127_smartfon-xiaomi-redmi.jpg</picture>
     <picture>https://images.prom.ua/_A_TMUQcT_A0I3B9RqQdghDgxCD8JnQYue3DZC8Lo0k=/4394302059_smartfon-xiaomi-redmi.jpg</picture>
     <vendor>Xiaomi</vendor>
-    <name>Смартфон Xiaomi Redmi 10A 4/64GB Sky Blue Global Rom Refurbished</name> <stock_quantity>100</stock_quantity> <state>Refurbished</state>
+    <name>Смартфон Xiaomi Redmi 10A 4/64GB Sky Blue Global Rom Refurbished</name> <stock_quantity>0</stock_quantity> <state>Refurbished</state>
     <description><![CDATA[<div><div>
 <table border="1" class="ck-table-constructor ck-theme-grey ck-table-constructor_type_lite">
 	<tbody>
